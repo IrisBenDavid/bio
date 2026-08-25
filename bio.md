@@ -24,9 +24,11 @@ Over four theoretical phases, my research has developed: a composite, improvemen
 
 My work sits at the intersection of state **competitiveness** and social **cohesiveness**, organized into three research groups:
 
-- **[STAC — State Competitiveness](stac.html)**: international comparative research using large-scale secondary data (PIAAC, TALIS, PISA)
-- **[LEAD — Learning for Strategic Development](lead.html)**: education finance policy — resource allocation mechanisms, funding formulae, and equity analysis
-- **[EDS — Equity, Diversity, and Social Justice](lab.html)**: national-level policy research on inclusion, minorities, and equity of opportunity
+- **[Competitiveness — STAC](research-areas.html#competitiveness)**: international comparative research using large-scale secondary data (PIAAC, TALIS, PISA)
+- **[Education Finance Policy — LEAD](lead.html)**: resource allocation mechanisms, funding formulae, and equity analysis
+- **[Cohesiveness — EDS](research-areas.html#cohesiveness)**: national-level policy research on inclusion, minorities, and equity of opportunity
+
+[See all research areas →](research-areas.html)
 
 I founded and head all three.
 

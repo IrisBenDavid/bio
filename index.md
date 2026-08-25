@@ -9,7 +9,7 @@ title: Home
 
 I study **education finance policy** — how resources are allocated to schools, how funding formulae are designed, and what that means for equity in educational outcomes. My work moves between academic research and practice: it has directly informed a funding-formula reform by Israel's Ministry of Education, and I regularly advise policymakers in Israel and internationally.
 
-[Bio](bio.html) · [Papers](papers.html) · [Media](media.html) · [Policy](policy.html) · [STAC](stac.html) · [EDS Lab](lab.html) · [LEAD](lead.html) · [Forum](forum.html) · [DEAR-U](dearu.html)
+[Bio](bio.html) · [Papers](papers.html) · [Media](media.html) · [Policy](policy.html) · [Research Areas](research-areas.html) · [LEAD](lead.html) · [Forum](forum.html) · [DEAR-U](dearu.html)
 
 ---
 

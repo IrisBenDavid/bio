@@ -8,7 +8,7 @@ permalink: /lead.html
 
 Faculty of Education, Bar-Ilan University
 
-LEAD is my research group on **education finance policy** — one of three groups I lead, alongside [STAC](stac.html) (state competitiveness) and [EDS](lab.html) (equity, diversity and social justice). LEAD sits at the bridge between the two: it studies redistribution and resource-allocation mechanisms, funding formulae, and equity analysis, using longitudinal, nationwide student-level data.
+LEAD is my research group on **education finance policy** — one of three groups I lead, alongside [Competitiveness — STAC](research-areas.html#competitiveness) and [Cohesiveness — EDS](research-areas.html#cohesiveness). LEAD sits at the bridge between the two: it studies redistribution and resource-allocation mechanisms, funding formulae, and equity analysis, using longitudinal, nationwide student-level data.
 
 Current work includes developing a new funding formula and resource-allocation mechanism for improvement, reconceptualizing the relationship between performance levels and achievement gaps (Improvement in Educational Achievement Distribution, or **IEAD**), and measuring equity in outcomes via Gini-based indices (**EGini**) and Lorenz curves.
 
