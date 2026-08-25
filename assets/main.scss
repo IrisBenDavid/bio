@@ -57,9 +57,23 @@ h1, h2, h3, h4, h5, h6 {
   font-style: italic;
 }
 
-// Bot-resistant email include.
-.email-link a {
+// Bot-resistant email include: the real address is never rendered as text
+// or an href — it's built and navigated to only on click.
+.email-reveal-btn {
+  margin-left: 0.5em;
+  padding: 0.2em 0.7em;
+  font-size: 0.85em;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  border: 1px solid $brand-color;
+  border-radius: 4px;
+  background: transparent;
+  color: $brand-color;
+  cursor: pointer;
+
+  &:hover {
+    background: $brand-color;
+    color: #fff;
+  }
 }
 
 // Copy-ready APA citations under each paper entry (the only blockquotes on the site).
