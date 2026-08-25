@@ -18,7 +18,7 @@ My research is aimed at practice as much as at the academic literature. Below: m
 
 ### Talks & presentations
 
-- **"Education as a Development Strategy for the State of Israel"** (חינוך כאסטרטגיה לפיתוח של מדינת ישראל) — keynote at *כנס עתיד החינוך* (Future of Education Conference), Histadrut HaMorim & Amutat HaMorim, Aug 24, 2026. Argues for reframing education spending as national development infrastructure rather than a budget line to be trimmed, and lays out a four-part "Middle-Line Model" policy proposal: a real pay floor for all teachers, career-long development pathways, differentiated need-based resource allocation, and dedicated in-school professional workspace and time.
+- **"Education as a Development Strategy for the State of Israel"** (חינוך כאסטרטגיה לפיתוח של מדינת ישראל) — keynote at *כנס עתיד החינוך* (Future of Education Conference), Histadrut HaMorim & Amutat HaMorim, Aug 24, 2026. Argues for reframing education spending as national development infrastructure rather than a budget line to be trimmed, and lays out a four-part "Middle-Line Model" policy proposal: a real pay floor for all teachers, career-long development pathways, differentiated need-based resource allocation, and dedicated in-school professional workspace and time. [Download the slides (PDF) →](assets/talks/2026-08-24-future-of-education-conference.pdf)
 
 ### Podcast
 
