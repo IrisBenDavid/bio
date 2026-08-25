@@ -113,10 +113,6 @@ Cite: [APA](https://citation.doi.org/format?doi=10.7459/es/27.1.05&style=apa&lan
 
 ## Cohesiveness: Equity, Diversity & Social Justice
 
-- Even, U., & BenDavid-Hadar, I. (2025). [Teachers' perceptions of their school principal's leadership style and improvement in their students' performance in specialized schools for students with conduct disorders](https://doi.org/10.1177/08920206211054654). *Management in Education, 39*(1), 5-18. <span class="tag">Journal Article</span>
-> Even, U., & BenDavid-Hadar, I. (2025). Teachers' perceptions of their school principal's leadership style and improvement in their students' performance in specialized schools for students with conduct disorders. *Management in Education, 39*(1), 5-18. https://doi.org/10.1177/08920206211054654
-Cite: [APA](https://citation.doi.org/format?doi=10.1177/08920206211054654&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.1177/08920206211054654/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.1177/08920206211054654&style=chicago-author-date&lang=en-US)
-
 - Dadon-Golan, Z., BenDavid-Hadar, I., & Klein, J. (2019). [Equity in education: the Israeli case](https://doi.org/10.1108/ijem-09-2018-0291). *International Journal of Educational Management, 33*(7), 1670-1685. <span class="tag">Journal Article</span>
 > Dadon-Golan, Z., BenDavid-Hadar, I., & Klein, J. (2019). Equity in education: The Israeli case. *International Journal of Educational Management, 33*(7), 1670-1685. https://doi.org/10.1108/ijem-09-2018-0291
 Cite: [APA](https://citation.doi.org/format?doi=10.1108/ijem-09-2018-0291&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.1108/ijem-09-2018-0291/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.1108/ijem-09-2018-0291&style=chicago-author-date&lang=en-US)
@@ -156,6 +152,10 @@ Cite: [APA](https://citation.doi.org/format?doi=10.1108/ijem-03-2019-0100&style=
 > BenDavid-Hadar, I. (2015). The economics of MOOCs and their interrelationship to competitiveness and cohesiveness: The case of Israel. *Higher Education Review, 47*(3), 75-92.
 
 ## Educational Policy
+
+- Even, U., & BenDavid-Hadar, I. (2025). [Teachers' perceptions of their school principal's leadership style and improvement in their students' performance in specialized schools for students with conduct disorders](https://doi.org/10.1177/08920206211054654). *Management in Education, 39*(1), 5-18. <span class="tag">Journal Article</span>
+> Even, U., & BenDavid-Hadar, I. (2025). Teachers' perceptions of their school principal's leadership style and improvement in their students' performance in specialized schools for students with conduct disorders. *Management in Education, 39*(1), 5-18. https://doi.org/10.1177/08920206211054654
+Cite: [APA](https://citation.doi.org/format?doi=10.1177/08920206211054654&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.1177/08920206211054654/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.1177/08920206211054654&style=chicago-author-date&lang=en-US)
 
 - Shilo, Y., & BenDavid-Hadar, I. (2026). Early childhood education policy and children rights: Examining the Israeli reform. *Early Childhood Education Journal*, 1-14. [DOI: 10.1007/s10643-026-02120-z](https://doi.org/10.1007/s10643-026-02120-z) <span class="tag">Journal Article</span>
 > Shilo, Y., & BenDavid-Hadar, I. (2026). Early childhood education policy and children rights: Examining the Israeli reform. *Early Childhood Education Journal*, 1-14. https://doi.org/10.1007/s10643-026-02120-z
