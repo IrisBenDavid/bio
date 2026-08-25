@@ -1,5 +1,5 @@
-title: "Iris Ben-David"        # placeholder — replace with your preferred display name
-description: "Academic homepage — placeholder, under construction."
+title: "Iris BenDavid-Hadar"
+description: "Associate Professor, Faculty of Education, Bar-Ilan University — education finance policy, resource allocation, and equity."
 theme: minima
 
 minima:
@@ -7,11 +7,14 @@ minima:
 
 show_excerpts: false
 
+header_pages:
+  - bio.md
+  - papers.md
+  - media.md
+  - research.md
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Site-wide settings we'll wire up once real content is added:
-# email:
-# twitter_username:
-# github_username:
+email: Iris.hadar@biu.ac.il

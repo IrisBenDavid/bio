@@ -14,3 +14,50 @@ body,
 h1, h2, h3, h4, h5, h6 {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
+
+// Type/status tags used on Papers, Media, and Research pages.
+.tag {
+  display: inline-block;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 0.7em;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  padding: 0.15em 0.55em;
+  border-radius: 3px;
+  background: $brand-color;
+  color: #fff;
+  vertical-align: middle;
+  margin-left: 0.35em;
+}
+
+.tag-muted {
+  background: transparent;
+  color: #767676;
+  border: 1px solid #d9d9d9;
+  text-transform: none;
+  font-weight: 400;
+  letter-spacing: normal;
+}
+
+.tag-progress {
+  background: #8a6d3b;
+}
+
+.tag-policy {
+  background: #3b6e4f;
+}
+
+// "Coming soon" placeholder blocks (e.g. DEAR-U section).
+.coming-soon {
+  border: 1px dashed #c7c7c7;
+  border-radius: 6px;
+  padding: 1em 1.2em;
+  color: #5a5a5a;
+  font-style: italic;
+}
+
+// Bot-resistant email include.
+.email-link a {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}

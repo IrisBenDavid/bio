@@ -1,0 +1,19 @@
+<!--
+  Bot-resistant email link: assembled client-side from parts, so it never
+  appears as a scrapeable mailto: string in the page source. Falls back to
+  a plain, non-clickable "name [at] domain [dot] il" for no-JS visitors.
+-->
+<span class="email-link">
+  <noscript>Iris.hadar [at] biu [dot] ac [dot] il</noscript>
+  <a href="#" class="email-js" data-user="Iris.hadar" data-domain="biu.ac.il" onclick="return false;">
+    (enable JavaScript to reveal email)
+  </a>
+</span>
+<script>
+  document.querySelectorAll('.email-js').forEach(function (el) {
+    var addr = el.getAttribute('data-user') + '@' + el.getAttribute('data-domain');
+    el.textContent = addr;
+    el.href = 'mailto:' + addr;
+    el.removeAttribute('onclick');
+  });
+</script>
