@@ -12,8 +12,13 @@ My research is aimed at practice as much as at the academic literature. Below: m
 
 - **National Education Finance Academy (NEFA)** — [Board of Trustees](https://www.nationaledfinance.com/board-of-trustees.html) (2024–2027 term); [Distinguished Research & Practice Fellow](https://www.nationaledfinance.com/distinguished-research--practice-fellow-awards.html) (2014), for outstanding contribution to the research of education finance.
 - **UNESCO Global Education Monitoring (GEM) Report — PEER initiative**: reviewer for Israel's "Financing for Equity" country profiles across [pre-primary](https://education-profiles.org/northern-africa-and-western-asia/israel/~financing-for-equity-in-pre-primary-education), [primary/secondary](https://education-profiles.org/northern-africa-and-western-asia/israel/~financing-for-equity-in-primary-and-secondary-education), and [higher education](https://education-profiles.org/northern-africa-and-western-asia/israel/~financing-for-equity-in-higher-education).
-- **Comparative and International Education Society (CIES), Economics and Finance of Education SIG**: co-founder of the SIG; served as Co-Chair (2017–2019). [SIG history](https://efe-sig.wixsite.com/efe-sig) · [current SIG page](https://cies.us/economics-and-finance-of-education-sig/)
+- **Comparative and International Education Society (CIES), Economics and Finance of Education SIG**: Founder and Chair of the research group. [SIG history](https://efe-sig.wixsite.com/efe-sig) · [current SIG page](https://cies.us/economics-and-finance-of-education-sig/)
+- **Forum on Economic Aspects of Education Policy**, Bar-Ilan University — Founder and Chair (2023–present)
 - Contributor to the World Bank's Equity Report and UNESCO's Global Education Monitoring (GEM) Report; my funding-formula research directly informed a reform by Israel's Ministry of Education. Invited speaker at a US investment summit hosted by the Obama administration, and keynote speaker at China's Belt and Road Initiative higher education forum.
+
+### Talks & presentations
+
+- **"Education as a Development Strategy for the State of Israel"** (חינוך כאסטרטגיה לפיתוח של מדינת ישראל) — keynote at *כנס עתיד החינוך* (Future of Education Conference), Histadrut HaMorim & Amutat HaMorim, Aug 24, 2026. Argues for reframing education spending as national development infrastructure rather than a budget line to be trimmed, and lays out a four-part "Middle-Line Model" policy proposal: a real pay floor for all teachers, career-long development pathways, differentiated need-based resource allocation, and dedicated in-school professional workspace and time.
 
 ### Podcast
 
