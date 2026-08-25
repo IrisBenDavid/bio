@@ -6,8 +6,6 @@ permalink: /papers.html
 
 ## Publications
 
-Full, up-to-date list also on [Google Scholar](https://scholar.google.com/citations?user=zO4doM0AAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-7533-4422). Each entry includes a ready-to-copy APA (7th ed.) citation, cross-checked against Google Scholar and Crossref. A handful of older items don't have a stable public link (marked below) — get in touch if you'd like a copy.
-
 ### Books
 
 - BenDavid-Hadar, I. (Ed.). (2018). *[Education Finance, Equality, and Equity](https://link.springer.com/book/10.1007/978-3-319-90388-0)*. Springer. <span class="tag">Book (Editor)</span>
