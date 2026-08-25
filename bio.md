@@ -16,9 +16,19 @@ Where money goes in a school system shapes who gets a fair shot. My work asks ho
 
 ### Academic bio
 
-I am an Associate Professor in the Faculty of Education at Bar-Ilan University, where I founded and head the [**EDS — Equity, Diversity, and Social Justice Lab**](lab.html). I hold a PhD from Bar-Ilan University (2008, supervised by Prof. Adrian Ziderman), an MA and BA from Tel Aviv University, and completed a post-doc at Stanford University's School of Education (2009, hosted by Prof. Martin Carnoy). I have held visiting scholar positions at Columbia University (2015) and University College London (2023).
+I am an Associate Professor in the Faculty of Education at Bar-Ilan University. I hold a PhD from Bar-Ilan University (2008, supervised by Prof. Adrian Ziderman), an MA and BA from Tel Aviv University, and completed a post-doc at Stanford University's School of Education (2009, hosted by Prof. Martin Carnoy). I have held visiting scholar positions at Columbia University (2015) and University College London (2023).
 
 Over four theoretical phases, my research has developed: a composite, improvement-based method of resource allocation to schools; a framework integrating social justice theory with public finance; an account of education finance at the global level linking state competitiveness and social cohesiveness; and, most recently, the **Middle-Line Model** — a framework for escaping the traditional trade-off between competitiveness and cohesion in education finance policy. This work has been presented at venues including a US investment summit hosted by the Obama administration and, as keynote, at China's Belt and Road Initiative higher education forum.
+
+### Research groups
+
+My work sits at the intersection of state **competitiveness** and social **cohesiveness**, organized into three research groups:
+
+- **[STAC — State Competitiveness](stac.html)**: international comparative research using large-scale secondary data (PIAAC, TALIS, PISA)
+- **[LEAD — Learning for Strategic Development](lead.html)**: education finance policy — resource allocation mechanisms, funding formulae, and equity analysis
+- **[EDS — Equity, Diversity, and Social Justice](lab.html)**: national-level policy research on inclusion, minorities, and equity of opportunity
+
+I founded and head all three.
 
 I have published over 40 peer-reviewed journal articles, 19 book chapters, and two edited books, including *[Education Finance, Equality and Equity](https://link.springer.com/book/10.1007/978-3-319-90388-0)* (Springer, 2018). [See my full list of papers →](papers.html)
 
