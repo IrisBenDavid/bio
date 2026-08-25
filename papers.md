@@ -111,6 +111,13 @@ Cite: [APA](https://citation.doi.org/format?doi=10.7459/es/27.1.05&style=apa&lan
 - BenDavid-Hadar, I. (2023). [Resource allocation mechanism to education and funding formula in Israel](https://meyda.education.gov.il/files/LishcatMadaan/MadadTipuach/review-bendavid-hadar.pdf). Policy white paper prepared for the Chief Scientist of the Israeli Ministry of Education. (Hebrew) <span class="tag tag-policy">Policy Brief</span>
 > BenDavid-Hadar, I. (2023). *Resource allocation mechanism to education and funding formula in Israel* [in Hebrew]. Policy white paper prepared for the Chief Scientist of the Israeli Ministry of Education. https://meyda.education.gov.il/files/LishcatMadaan/MadadTipuach/review-bendavid-hadar.pdf
 
+- BenDavid-Hadar, I. (2024). Globalisation and education policy issues: The right to education. In *[Fourth International Handbook of Globalisation, Education and Policy Research](https://www.brownsbfs.co.uk/Product/Zajda-Joseph/Fourth-International-Handbook-of-Globalisation-Education-/9783031676666)* (pp. 373-389). Springer. <span class="tag">Book Chapter</span>
+> BenDavid-Hadar, I. (2024). Globalisation and education policy issues: The right to education. In J. Zajda (Ed.), *Fourth international handbook of globalisation, education and policy research* (pp. 373-389). Springer.
+
+- BenDavid-Hadar, I. (2016). [Education for all: The Israeli Ultra-Orthodox schools](https://doi.org/10.7459/ept/38.2.03). *Educational Practice & Theory, 38*(2), 23-39. <span class="tag">Journal Article</span>
+> BenDavid-Hadar, I. (2016). Education for all: The Israeli Ultra-Orthodox schools. *Educational Practice & Theory, 38*(2), 23-39. https://doi.org/10.7459/ept/38.2.03
+Cite: [APA](https://citation.doi.org/format?doi=10.7459/ept/38.2.03&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.7459/ept/38.2.03/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.7459/ept/38.2.03&style=chicago-author-date&lang=en-US)
+
 ## Cohesiveness: Equity, Diversity & Social Justice
 
 - Dadon-Golan, Z., BenDavid-Hadar, I., & Klein, J. (2019). [Equity in education: the Israeli case](https://doi.org/10.1108/ijem-09-2018-0291). *International Journal of Educational Management, 33*(7), 1670-1685. <span class="tag">Journal Article</span>
@@ -203,12 +210,5 @@ Cite: [APA](https://citation.doi.org/format?doi=10.1080/15582159.2021.1977584&st
 - Even, U., & BenDavid-Hadar, I. (2025). [Teachers' perceptions of their school principal's leadership style and improvement in their students' performance in specialized schools for students with conduct disorders](https://doi.org/10.1177/08920206211054654). *Management in Education, 39*(1), 5-18. <span class="tag">Journal Article</span>
 > Even, U., & BenDavid-Hadar, I. (2025). Teachers' perceptions of their school principal's leadership style and improvement in their students' performance in specialized schools for students with conduct disorders. *Management in Education, 39*(1), 5-18. https://doi.org/10.1177/08920206211054654
 Cite: [APA](https://citation.doi.org/format?doi=10.1177/08920206211054654&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.1177/08920206211054654/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.1177/08920206211054654&style=chicago-author-date&lang=en-US)
-
-- BenDavid-Hadar, I. (2024). Globalisation and education policy issues: The right to education. In *[Fourth International Handbook of Globalisation, Education and Policy Research](https://www.brownsbfs.co.uk/Product/Zajda-Joseph/Fourth-International-Handbook-of-Globalisation-Education-/9783031676666)* (pp. 373-389). Springer. <span class="tag">Book Chapter</span>
-> BenDavid-Hadar, I. (2024). Globalisation and education policy issues: The right to education. In J. Zajda (Ed.), *Fourth international handbook of globalisation, education and policy research* (pp. 373-389). Springer.
-
-- BenDavid-Hadar, I. (2016). [Education for all: The Israeli Ultra-Orthodox schools](https://doi.org/10.7459/ept/38.2.03). *Educational Practice & Theory, 38*(2), 23-39. <span class="tag">Journal Article</span>
-> BenDavid-Hadar, I. (2016). Education for all: The Israeli Ultra-Orthodox schools. *Educational Practice & Theory, 38*(2), 23-39. https://doi.org/10.7459/ept/38.2.03
-Cite: [APA](https://citation.doi.org/format?doi=10.7459/ept/38.2.03&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.7459/ept/38.2.03/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.7459/ept/38.2.03&style=chicago-author-date&lang=en-US)
 
 *(19 book chapters exist in total, including seven in the edited volume above; full list on [Google Scholar](https://scholar.google.com/citations?user=zO4doM0AAAAJ&hl=en).)*
