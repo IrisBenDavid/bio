@@ -12,6 +12,8 @@ I founded and chair this forum to bring together researchers and policymakers wo
 
 ### Annual conferences
 
+- **2026** — Annual Scientific Conference of the Economic Aspects of Education Policy Forum, Bar-Ilan University
+- **2025** — Annual Scientific Conference of the Economic Aspects of Education Policy Forum, Bar-Ilan University
 - **2024** — Second Annual Scientific Conference: *Education Under Conditions of Uncertainty*, within the Economic Aspects of Education Policy Forum, Bar-Ilan University
 - **2023** — Annual Scientific Conference of the Economic Aspects of Education Policy Forum, Bar-Ilan University
 
