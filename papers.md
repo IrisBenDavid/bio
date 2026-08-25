@@ -153,17 +153,19 @@ Cite: [APA](https://citation.doi.org/format?doi=10.1108/ijem-03-2019-0100&style=
 
 ## Educational Policy
 
-- Even, U., & BenDavid-Hadar, I. (2025). [Teachers' perceptions of their school principal's leadership style and improvement in their students' performance in specialized schools for students with conduct disorders](https://doi.org/10.1177/08920206211054654). *Management in Education, 39*(1), 5-18. <span class="tag">Journal Article</span>
-> Even, U., & BenDavid-Hadar, I. (2025). Teachers' perceptions of their school principal's leadership style and improvement in their students' performance in specialized schools for students with conduct disorders. *Management in Education, 39*(1), 5-18. https://doi.org/10.1177/08920206211054654
-Cite: [APA](https://citation.doi.org/format?doi=10.1177/08920206211054654&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.1177/08920206211054654/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.1177/08920206211054654&style=chicago-author-date&lang=en-US)
+### Financial Education Policy
 
-- Shilo, Y., & BenDavid-Hadar, I. (2026). Early childhood education policy and children rights: Examining the Israeli reform. *Early Childhood Education Journal*, 1-14. [DOI: 10.1007/s10643-026-02120-z](https://doi.org/10.1007/s10643-026-02120-z) <span class="tag">Journal Article</span>
-> Shilo, Y., & BenDavid-Hadar, I. (2026). Early childhood education policy and children rights: Examining the Israeli reform. *Early Childhood Education Journal*, 1-14. https://doi.org/10.1007/s10643-026-02120-z
-Cite: [APA](https://citation.doi.org/format?doi=10.1007/s10643-026-02120-z&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.1007/s10643-026-02120-z/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.1007/s10643-026-02120-z&style=chicago-author-date&lang=en-US)
+- BenDavid-Hadar, I., & May-Yazdi, O. (2018). The relationships among income, academic education, and financial literacy: The case of the ultra-Orthodox in Israel. *Education and Society, 36*(2), 49-76. <span class="tag">Journal Article</span>
+> BenDavid-Hadar, I., & May-Yazdi, O. (2018). The relationships among income, academic education, and financial literacy: The case of the ultra-Orthodox in Israel. *Education and Society, 36*(2), 49-76.
 
-- Krubiner, O., & BenDavid-Hadar, I. (2026). [Choice and equity in education: the role of specialised schools](https://doi.org/10.1080/00131881.2025.2593257). *Educational Research, 68*(1), 38-58. <span class="tag">Journal Article</span>
-> Krubiner, O., & BenDavid-Hadar, I. (2026). Choice and equity in education: The role of specialised schools. *Educational Research, 68*(1), 38-58. https://doi.org/10.1080/00131881.2025.2593257
-Cite: [APA](https://citation.doi.org/format?doi=10.1080/00131881.2025.2593257&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.1080/00131881.2025.2593257/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.1080/00131881.2025.2593257&style=chicago-author-date&lang=en-US)
+- BenDavid-Hadar, I. (2015). An analysis of personal financial literacy among educators. *Journal of Financial Education, 41*(3-4), 50-89. <span class="tag">Journal Article</span> <span class="tag tag-muted">no stable link</span>
+> BenDavid-Hadar, I. (2015). An analysis of personal financial literacy among educators. *Journal of Financial Education, 41*(3-4), 50-89.
+
+- BenDavid-Hadar, I., & Hadad, Y. (2013). [Financial education for children: The Israeli case](https://doi.org/10.2304/csee.2013.12.1.48). *Citizenship, Social and Economics Education, 12*(1), 48-57. <span class="tag">Journal Article</span>
+> BenDavid-Hadar, I., & Hadad, Y. (2013). Financial education for children: The Israeli case. *Citizenship, Social and Economics Education, 12*(1), 48-57. https://doi.org/10.2304/csee.2013.12.1.48
+Cite: [APA](https://citation.doi.org/format?doi=10.2304/csee.2013.12.1.48&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.2304/csee.2013.12.1.48/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.2304/csee.2013.12.1.48&style=chicago-author-date&lang=en-US)
+
+### Language Policy
 
 - Malki-Levy, S., BenDavid-Hadar, I., & Altman, C. (2026). [Additional language learning policy for immigrant students: A comparative research](https://doi.org/10.1007/s10993-025-09755-5). *Language Policy, 25*(1), 9. <span class="tag">Journal Article</span>
 > Malki-Levy, S., BenDavid-Hadar, I., & Altman, C. (2026). Additional language learning policy for immigrant students: A comparative research. *Language Policy, 25*(1), 9. https://doi.org/10.1007/s10993-025-09755-5
@@ -173,32 +175,40 @@ Cite: [APA](https://citation.doi.org/format?doi=10.1007/s10993-025-09755-5&style
 > Malki-Levy, S., Altman, C., & Shnitzer-Meirovich, S. (2025). Impact of bilingual intervention on Arabic-Hebrew speaking children: Investigation of the dynamics between SES and bilingualism. *International Journal of Bilingual Education and Bilingualism, 28*(9), 1035-1055. https://doi.org/10.1080/13670050.2025.2528967
 Cite: [APA](https://citation.doi.org/format?doi=10.1080/13670050.2025.2528967&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.1080/13670050.2025.2528967/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.1080/13670050.2025.2528967&style=chicago-author-date&lang=en-US)
 
+### Early Childhood Policy
+
+- Shilo, Y., & BenDavid-Hadar, I. (2026). Early childhood education policy and children rights: Examining the Israeli reform. *Early Childhood Education Journal*, 1-14. [DOI: 10.1007/s10643-026-02120-z](https://doi.org/10.1007/s10643-026-02120-z) <span class="tag">Journal Article</span>
+> Shilo, Y., & BenDavid-Hadar, I. (2026). Early childhood education policy and children rights: Examining the Israeli reform. *Early Childhood Education Journal*, 1-14. https://doi.org/10.1007/s10643-026-02120-z
+Cite: [APA](https://citation.doi.org/format?doi=10.1007/s10643-026-02120-z&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.1007/s10643-026-02120-z/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.1007/s10643-026-02120-z&style=chicago-author-date&lang=en-US)
+
 - Shilo, Y., & BenDavid-Hadar, I. (2024). [Processes of change in early childhood policy and legislation in Israel](https://doi.org/10.1080/03004430.2023.2256999). *Early Child Development and Care, 194*(5-6), 669-684. <span class="tag">Journal Article</span>
 > Shilo, Y., & BenDavid-Hadar, I. (2024). Processes of change in early childhood policy and legislation in Israel. *Early Child Development and Care, 194*(5-6), 669-684. https://doi.org/10.1080/03004430.2023.2256999
 Cite: [APA](https://citation.doi.org/format?doi=10.1080/03004430.2023.2256999&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.1080/03004430.2023.2256999/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.1080/03004430.2023.2256999&style=chicago-author-date&lang=en-US)
 
-- BenDavid-Hadar, I. (2024). Globalisation and education policy issues: The right to education. In *[Fourth International Handbook of Globalisation, Education and Policy Research](https://www.brownsbfs.co.uk/Product/Zajda-Joseph/Fourth-International-Handbook-of-Globalisation-Education-/9783031676666)* (pp. 373-389). Springer. <span class="tag">Book Chapter</span>
-> BenDavid-Hadar, I. (2024). Globalisation and education policy issues: The right to education. In J. Zajda (Ed.), *Fourth international handbook of globalisation, education and policy research* (pp. 373-389). Springer.
-
 - Shilo, Y., & BenDavid-Hadar, I. (2024). We shall walk around all day until we find a place: The political crisis reality in Israel and its effect on the educational frameworks for the ages of birth to three. In *Opportunities and Challenges in Early Childhood Education in Times of Crisis*. Levinsky-Wingate Academic Center. (Hebrew) <span class="tag">Book Chapter</span>
 > Shilo, Y., & BenDavid-Hadar, I. (2024). We shall walk around all day until we find a place: The political crisis reality in Israel and its effect on the educational frameworks for the ages of birth to three [in Hebrew]. In A. Peleg, K. Tal, N. Laor, & M. Caduri-Schlazak (Eds.), *Opportunities and challenges in early childhood education in times of crisis*. Levinsky-Wingate Academic Center.
+
+### Choice
+
+- Krubiner, O., & BenDavid-Hadar, I. (2026). [Choice and equity in education: the role of specialised schools](https://doi.org/10.1080/00131881.2025.2593257). *Educational Research, 68*(1), 38-58. <span class="tag">Journal Article</span>
+> Krubiner, O., & BenDavid-Hadar, I. (2026). Choice and equity in education: The role of specialised schools. *Educational Research, 68*(1), 38-58. https://doi.org/10.1080/00131881.2025.2593257
+Cite: [APA](https://citation.doi.org/format?doi=10.1080/00131881.2025.2593257&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.1080/00131881.2025.2593257/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.1080/00131881.2025.2593257&style=chicago-author-date&lang=en-US)
 
 - Unger Madar, M., & BenDavid-Hadar, I. (2022). [Does home schooling improve creative thinking and social competencies among children? Home schooling in Israel](https://doi.org/10.1080/15582159.2021.1977584). *Journal of School Choice, 16*(1), 136-163. <span class="tag">Journal Article</span>
 > Unger Madar, M., & BenDavid-Hadar, I. (2022). Does home schooling improve creative thinking and social competencies among children? Home schooling in Israel. *Journal of School Choice, 16*(1), 136-163. https://doi.org/10.1080/15582159.2021.1977584
 Cite: [APA](https://citation.doi.org/format?doi=10.1080/15582159.2021.1977584&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.1080/15582159.2021.1977584/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.1080/15582159.2021.1977584&style=chicago-author-date&lang=en-US)
 
-- BenDavid-Hadar, I., & May-Yazdi, O. (2018). The relationships among income, academic education, and financial literacy: The case of the ultra-Orthodox in Israel. *Education and Society, 36*(2), 49-76. <span class="tag">Journal Article</span>
-> BenDavid-Hadar, I., & May-Yazdi, O. (2018). The relationships among income, academic education, and financial literacy: The case of the ultra-Orthodox in Israel. *Education and Society, 36*(2), 49-76.
+### Educational Policy (general)
+
+- Even, U., & BenDavid-Hadar, I. (2025). [Teachers' perceptions of their school principal's leadership style and improvement in their students' performance in specialized schools for students with conduct disorders](https://doi.org/10.1177/08920206211054654). *Management in Education, 39*(1), 5-18. <span class="tag">Journal Article</span>
+> Even, U., & BenDavid-Hadar, I. (2025). Teachers' perceptions of their school principal's leadership style and improvement in their students' performance in specialized schools for students with conduct disorders. *Management in Education, 39*(1), 5-18. https://doi.org/10.1177/08920206211054654
+Cite: [APA](https://citation.doi.org/format?doi=10.1177/08920206211054654&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.1177/08920206211054654/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.1177/08920206211054654&style=chicago-author-date&lang=en-US)
+
+- BenDavid-Hadar, I. (2024). Globalisation and education policy issues: The right to education. In *[Fourth International Handbook of Globalisation, Education and Policy Research](https://www.brownsbfs.co.uk/Product/Zajda-Joseph/Fourth-International-Handbook-of-Globalisation-Education-/9783031676666)* (pp. 373-389). Springer. <span class="tag">Book Chapter</span>
+> BenDavid-Hadar, I. (2024). Globalisation and education policy issues: The right to education. In J. Zajda (Ed.), *Fourth international handbook of globalisation, education and policy research* (pp. 373-389). Springer.
 
 - BenDavid-Hadar, I. (2016). [Education for all: The Israeli Ultra-Orthodox schools](https://doi.org/10.7459/ept/38.2.03). *Educational Practice & Theory, 38*(2), 23-39. <span class="tag">Journal Article</span>
 > BenDavid-Hadar, I. (2016). Education for all: The Israeli Ultra-Orthodox schools. *Educational Practice & Theory, 38*(2), 23-39. https://doi.org/10.7459/ept/38.2.03
 Cite: [APA](https://citation.doi.org/format?doi=10.7459/ept/38.2.03&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.7459/ept/38.2.03/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.7459/ept/38.2.03&style=chicago-author-date&lang=en-US)
-
-- BenDavid-Hadar, I. (2015). An analysis of personal financial literacy among educators. *Journal of Financial Education, 41*(3-4), 50-89. <span class="tag">Journal Article</span> <span class="tag tag-muted">no stable link</span>
-> BenDavid-Hadar, I. (2015). An analysis of personal financial literacy among educators. *Journal of Financial Education, 41*(3-4), 50-89.
-
-- BenDavid-Hadar, I., & Hadad, Y. (2013). [Financial education for children: The Israeli case](https://doi.org/10.2304/csee.2013.12.1.48). *Citizenship, Social and Economics Education, 12*(1), 48-57. <span class="tag">Journal Article</span>
-> BenDavid-Hadar, I., & Hadad, Y. (2013). Financial education for children: The Israeli case. *Citizenship, Social and Economics Education, 12*(1), 48-57. https://doi.org/10.2304/csee.2013.12.1.48
-Cite: [APA](https://citation.doi.org/format?doi=10.2304/csee.2013.12.1.48&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.2304/csee.2013.12.1.48/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.2304/csee.2013.12.1.48&style=chicago-author-date&lang=en-US)
 
 *(19 book chapters exist in total, including seven in the edited volume above; full list on [Google Scholar](https://scholar.google.com/citations?user=zO4doM0AAAAJ&hl=en).)*
