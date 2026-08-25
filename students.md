@@ -4,17 +4,22 @@ title: Prospective Students
 permalink: /students.html
 ---
 
-## Prospective Students
+## Join
 
-I welcome inquiries from prospective MA and PhD students interested in joining one of my research groups — [STAC](stac.html) (state competitiveness), [EDS](lab.html) (equity, diversity and social justice), or [LEAD](lead.html) (education finance policy). See the [EDS Lab page](lab.html) for current students, alumni, and their thesis topics across all three groups.
+### Undergraduates
 
-### Areas I'm looking for students in
+We occasionally have positions for research assistants. If interested, get in touch via the email button on my [Bio page](bio.html).
 
-- Education finance policy: resource allocation, funding formulae, fiscal decentralization
-- Equity, diversity, and social justice in education (special needs, minorities, ultra-Orthodox, immigrants, periphery)
-- International comparative research using large-scale data (PIAAC, TALIS, PISA)
-- Cost-effectiveness analysis of education programs and reforms
+### Graduate Students
 
-### How to get in touch
+We are always looking for bright and highly motivated Masters and PhD students whose interests align with the research topics of one of my three groups — [STAC](stac.html) (state competitiveness), [EDS](lab.html) (equity, diversity and social justice), and [LEAD](lead.html) (education finance policy). Successful applicants are expected to have strong quantitative/analytical skills and an interest in one or more of the following: education finance and resource allocation, equity in education, international comparative research using large-scale data (PIAAC, TALIS, PISA), or cost-effectiveness analysis of education programs and reforms.
 
-If you're considering an MA or PhD in the Faculty of Education at Bar-Ilan University and your interests align with the above, get in touch via the email button on my [Bio page](bio.html), with a short note on your background and research interests.
+Please get in touch via the email button on my [Bio page](bio.html) if interested. In your email, please explain your interest and provide 1) a CV, 2) transcripts, and 3) information on relevant projects (e.g., reports, papers) if available. Due to the volume of emails we receive, messages that don't include this information may not receive a reply.
+
+### Postdocs
+
+I have hosted several post-doctoral researchers across my three research groups. For further information on current opportunities, get in touch via the email button on my [Bio page](bio.html).
+
+### Note to international students and postdocs
+
+We welcome international applicants. My work involves close collaboration with international scholars and organizations — including the LEAD ISF international workshop, the National Education Finance Academy (NEFA), and the Comparative and International Education Society (CIES) — so international interests and perspectives are especially welcome here.
