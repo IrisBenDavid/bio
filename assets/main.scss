@@ -63,9 +63,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .portrait {
-  width: 180px;
-  height: 180px;
-  object-fit: cover;
+  width: 200px;
+  height: auto; // preserve the photo's natural aspect ratio — never crop it
   border-radius: 6px;
   float: right;
   margin: 0 0 1em 1.5em;

@@ -22,14 +22,6 @@ Over four theoretical phases, my research has developed: a composite, improvemen
 
 I have published over 40 peer-reviewed journal articles, 19 book chapters, and two edited books, including *[Education Finance, Equality and Equity](https://link.springer.com/book/10.1007/978-3-319-90388-0)* (Springer, 2018). [See my full list of papers →](papers.html)
 
-### Education
-
-| Year | Degree | Institution |
-|---|---|---|
-| 2008 | PhD | Bar-Ilan University |
-| 1999 | MA | Tel Aviv University |
-| 1985 | BA | Tel Aviv University |
-
 ### Contact & links
 
 **Email:**
