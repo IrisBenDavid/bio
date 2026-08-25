@@ -23,7 +23,7 @@ The central question I keep returning to: **can we finance education for improve
 
 *(Full publication list, with APA citations, on the [Papers](papers.html) page.)*
 
-- Gilead, T., & BenDavid-Hadar, I. (2025). [Educational equity and change: Exploring formula funding through a complex adaptive system perspective](https://doi.org/10.1080/00131857.2025.2494584). *Educational Philosophy and Theory*.
+- Gilead, T., & BenDavid-Hadar, I. (2025). [Educational justice and formula funding: A complex adaptive systems perspective](https://doi.org/10.1080/00131857.2025.2494584). *Educational Philosophy and Theory, 57*(12), 1078-1089.
 - Meoded, R., & BenDavid-Hadar, I. (2025). [Fiscal decentralization of education: A social network analysis of values underlying local decision-making processes](https://doi.org/10.1016/j.ijedudev.2025.103444). *International Journal of Educational Development, 119*, 103444.
 - Meoded, R., & BenDavid-Hadar, I. (2025). [Does fiscal decentralization in education funding affect equity?](https://doi.org/10.1177/0160323X251339424) *State and Local Government Review*.
 - Betser-Nahum, Y., & BenDavid-Hadar, I. (2025). [The municipalities' efficiency in Israel: The case of the provision of educational services](https://doi.org/10.1016/j.ijedudev.2025.103370). *International Journal of Educational Development, 117*, 103370.

@@ -10,7 +10,6 @@ show_excerpts: false
 header_pages:
   - bio.md
   - papers.md
-  - media.md
   - policy.md
   - stac.md
   - edfinance.md
@@ -18,6 +17,7 @@ header_pages:
   - lead.md
   - forum.md
   - dearu.md
+  - media.md
 
 plugins:
   - jekyll-feed
