@@ -22,11 +22,13 @@ Current work includes developing a new funding formula and resource-allocation m
 
 **Bar-Ilan University · May 5–7, 2025**
 
-In May 2025 I led a major international workshop under the LEAD banner, funded by the Israel Science Foundation. It brought together leading scholars in education finance to develop the theoretical and empirical grounding of the **Middle-Line Model** — a framework for advancing both state competitiveness and social cohesion through education finance policy, rather than treating them as a trade-off.
+In May 2025 I led a major international workshop under the LEAD banner. It brought together leading scholars in education finance to develop the theoretical and empirical grounding of the **Middle-Line Model** — a framework for advancing both state competitiveness and social cohesion through education finance policy, rather than treating them as a trade-off.
+
+**Funding:** Israel Science Foundation (ISF) International Workshop Grant.
 
 **Speakers included:**
-- **Prof. Martin Carnoy**, Stanford University
-- **Prof. Bruce D. Baker**, University of Miami
+- **[Prof. Martin Carnoy](https://ed.stanford.edu/faculty/carnoy)**, Stanford University
+- **[Prof. Bruce D. Baker](https://people.miami.edu/profile/a5ecc675a8885598708f27875524530b)**, University of Miami
 
 **Links:**
 - [Workshop program and speaker bios](https://lead-conference-37881fg.gamma.site/)
