@@ -11,7 +11,10 @@ header_pages:
   - bio.md
   - papers.md
   - media.md
-  - research.md
+  - lab.md
+  - lead.md
+  - forum.md
+  - dearu.md
 
 plugins:
   - jekyll-feed
