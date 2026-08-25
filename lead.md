@@ -15,8 +15,8 @@ Current work includes developing a new funding formula and resource-allocation m
 ### Current group members
 
 - **Sami Atar**, **Ruth Meoded**, **Elinor Ben-Levy** — Resource allocation
-- **Yifat Betser-Nahum** — Efficiency in local funding
-- **Roy Wolf** — Politics of budgeting — [dissertation coverage →](https://education.biu.ac.il/node/12051)
+- **Yifat Betser-Nahum** — Efficiency in local funding — [thesis record →](https://education.biu.ac.il/en/node/12268)
+- **Roy Wolf** — Politics of budgeting — [thesis record →](https://education.biu.ac.il/en/node/11765)
 
 ### LEAD: ISF International Workshop
 

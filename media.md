@@ -43,3 +43,7 @@ Also publicly viewable:
 - Dahan Center — [Higher education and reducing gaps, panel discussion](https://www.youtube.com/watch?v=7uaoe1kK5SU) (2016).
 - Bar-Ilan University — [Financial behavior and consumption habits among children](https://www.youtube.com/watch?v=LCHyULEQ3z8). On financial education and children's consumer culture.
 - Talk at Bar-Ilan University: [*Social Justice and Resource Allocation in Education*](https://www.youtube.com/watch?v=W5jlUNhnZrg) (צדק חברתי והקצאת המשאבים לחינוך).
+
+### More
+
+- [Research blog](https://ronitoved14.wixsite.com/eirisbendavid/p) — earlier media page.

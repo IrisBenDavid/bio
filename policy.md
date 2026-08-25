@@ -15,13 +15,25 @@ My research is aimed at practice as much as at the academic literature — infor
 - **Comparative and International Education Society (CIES), Economics and Finance of Education SIG**: Founder and Chair of the research group. [SIG history](https://efe-sig.wixsite.com/efe-sig) · [current SIG page](https://cies.us/economics-and-finance-of-education-sig/)
 - **[Forum on Economic Aspects of Education Policy](forum.html)**, Bar-Ilan University — Founder and Chair (2023–present)
 - Contributor to the World Bank's Equity Report; my funding-formula research directly informed a reform by Israel's Ministry of Education. Invited speaker at a US investment summit hosted by the Obama administration, and keynote speaker at China's Belt and Road Initiative higher education forum.
-- Contributor to the UN Education Commission's *[The Learning Generation](https://report.educationcommission.org/)* (2016), on financing the UN SDG 2030 education goals.
 
-### National policy engagement
+### National Consulting
 
-- **Israeli Knesset (Parliament), Education Committee** — invited testimony: *Education, Resource Allocation, and Poverty* (Oct 2010) and *Education Finance Policy, Equity, and Child Poverty* (Nov 2014).
-- **Israel Science Foundation (ISF)-funded applied research initiatives**: *Measuring Improvement in Educational Outcomes* (2020) and *Diversity Index for Public Schools* (2019).
-- Advisor to Israel's **Ministry of Education, Budget Department** (2026).
+*Recent examples:*
+
+- **2020** — *Measuring Improvement in Educational Outcomes: Developing a Multi-Facet Approach*, with the Israel Science Foundation's Initiative for Applied Education Research.
+- **2019** — *Developing a Diversity Index for Public Schools*, with the Israel Science Foundation's Initiative for Applied Education Research.
+
+**The Israeli Parliament (Knesset), Education Committee** — invited testimony:
+- *Education, Resource Allocation, and Poverty* — October 19, 2010
+- *Education Finance Policy, Equity, and Child Poverty* — November 11, 2014
+
+Also advisor to Israel's **Ministry of Education, Budget Department** (2026).
+
+### International Consulting
+
+*Recent examples:*
+
+- **2016** — Contributor to *[The Education Commission Report: The Learning Generation — Investing in Education for a Changing World](https://report.educationcommission.org/)*, on financing the UN SDG 2030 education goals.
 
 ### Talks & presentations
 
