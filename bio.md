@@ -6,6 +6,8 @@ permalink: /bio.html
 
 ## Iris BenDavid-Hadar
 
+<img src="assets/images/iris-bendavid-hadar.png" alt="Portrait of Iris BenDavid-Hadar" class="portrait" />
+
 **Associate Professor, Faculty of Education, Bar-Ilan University**
 
 ### Why my research matters

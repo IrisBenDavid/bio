@@ -61,3 +61,18 @@ h1, h2, h3, h4, h5, h6 {
 .email-link a {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
+
+.portrait {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 6px;
+  float: right;
+  margin: 0 0 1em 1.5em;
+
+  @media screen and (max-width: 600px) {
+    float: none;
+    display: block;
+    margin: 0 0 1em 0;
+  }
+}
