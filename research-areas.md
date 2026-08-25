@@ -36,11 +36,11 @@ STAC is my research group on state competitiveness — one of three groups I lea
 
 #### Current group members
 
-- **Yael Hoter-Hermony** — TALIS international comparative research
-- **Amos Polishku** — PIAAC international comparative research
+- **Yael Hoter-Hermony** — TALIS international comparative research — [thesis (PDF) →](https://education.biu.ac.il/sites/education/files/shared/HoterHermoniYael.pdf)
+- **Amos Polishku** — PIAAC international comparative research — [thesis record →](https://cris.biu.ac.il/en/studentTheses/does-nonformal-education-matter-an-international-comparative-stud/)
 - **Mor Zahavi** — PIAAC international comparative research
-- **Michal Unger Madar** — Creativity and social competence
-- **Amor Amosi-Nissan** — Periphery
+- **Michal Unger Madar** — Creativity and social competence — [thesis (PDF) →](https://education.biu.ac.il/sites/education/files/shared/UngerMadarMichal.pdf)
+- **Amor Amosi-Nissan** — Periphery — [thesis (DOCX) →](https://d16aa377-43ba-4606-8083-8542b471a68e.filesusr.com/ugd/3cedee_4a3f71108e224efd899195804ffe4477.docx)
 {: .card-grid}
 
 ---
