@@ -54,7 +54,18 @@ One active initiative within the lab is our **[Cost-Effectiveness Analysis in Ed
 
 #### PhD alumni
 
-Dr. Zehorit Dadon-Golan (2016) · Dr. Mor Zehavi (2020) · Dr. Amor Amosi (2021) · Dr. Yaara Shilo (2024) · Dr. Asael Sharir (2024) · Dr. Roy Wolf (2024) · Dr. Orit Krubiner (2025) · Dr. Sharon Malki (2025) · Dr. Yael Leby (2025) · Dr. Ruth Meoded (2025)
+- Dr. Zehorit Dadon-Golan (2016) — *Measuring Education Inequality in Israel: New Indicators* — [full dissertation (PDF) →](https://education.biu.ac.il/files/education/shared/dadon-golanzehorit_.pdf)
+- Dr. Mor Zehavi (2020) — *Choice and Efficiency in Education: New Perspective on the Tiebout Model*
+- Dr. Amor Amosi (2021) — *Excellence in Israel: A Cost-Effectiveness Analysis of "Mezuyanegev" Program in Eilat* — see [thesis link below](#in-the-media)
+- Dr. Asael Sharir (2024, with Prof. Joseph Klein) — *Developing an Evaluation Model for Education for Values in High Schools* — [institutional record →](https://cris.biu.ac.il/en/studentTheses/developing-an-evaluation-model-for-education-for-values-inhigh-sc/)
+- Dr. Roy Wolf (2024, with Prof. Joseph Klein) — *Educational Earmarks in the Light of the Political Milieu in Israel* — [Bar-Ilan news feature →](https://education.biu.ac.il/node/12051)
+- Dr. Yaara Shilo (2024) — *Vision versus Reality: Preschool Education Policy in Israel in the Last Decade (2008–2019)* — [faculty profile →](https://education.biu.ac.il/node/10844)
+- Dr. Orit Krubiner (2025) — *Specialized Schools in Israel: A Policy Research*
+- Dr. Sharon Malki-Levy (2025, with Dr. Carmit Altman) — *Equity in Bilingual Education*
+- Dr. Yael Leby (2025, with Dr. Shira Eluz) — *Ultra-Orthodox Integration in Higher Education: A Policy Research*
+- Dr. Ruth Meoded (2025) — *Equity in School Finance: The Local Authorities Case in Israel*
+
+*(Public dissertation files aren't yet available online for most 2024–2025 graduates — Bar-Ilan's repository typically has an embargo period before full text is deposited. Get in touch for a copy.)*
 
 #### MA alumni
 
