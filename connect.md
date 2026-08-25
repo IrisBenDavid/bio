@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Prospective Students
-permalink: /students.html
+title: Connect
+permalink: /connect.html
 ---
 
 ## Join
