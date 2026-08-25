@@ -30,7 +30,9 @@ I have published over 40 peer-reviewed journal articles, 19 book chapters, and t
 
 ### Contact & links
 
-**Email:** {% include email.html %}
+**Email:**
+
+{% include email.html %}
 
 **Affiliation:** Faculty of Education, Bar-Ilan University, Ramat Gan, Israel
 
