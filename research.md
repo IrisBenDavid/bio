@@ -10,6 +10,8 @@ permalink: /research.html
 
 I lead a research group on **cost-effectiveness analysis in education** at the Faculty of Education, Bar-Ilan University — [visit the group's site →](https://cea-ed-up5nhpz.gamma.site/)
 
+**Lab members:** Limor Eylon, Yael Rothschild Shiff, Yifat Betser-Nahum, Dr. Sharon Malki-Levy, Lidor Edri, Michal Tsaduki, and Ruth Meoded.
+
 ### LEAD: Learning for Strategic Development {#lead-workshop}
 
 In May 2025 I led **LEAD**, an ISF-funded international workshop hosted at Bar-Ilan University's Faculty of Education, bringing together leading scholars in education finance — including Prof. Martin Carnoy (Stanford University) and Prof. Bruce D. Baker (University of Miami) — to develop the theoretical and empirical grounding of the Middle-Line Model.
@@ -20,7 +22,7 @@ In May 2025 I led **LEAD**, an ISF-funded international workshop hosted at Bar-I
 ### Development, Evaluation, and Alumni Relationships Unit (DEAR-U)
 
 <div class="coming-soon" markdown="1">
-I am the founding head of **DEAR-U**, the Faculty of Education's unit for Development, Evaluation, and Alumni Relationships (2024–present). Content for this section is coming soon.
+I am the founder and chair of **DEAR-U**, the Faculty of Education's unit for Development, Evaluation, and Alumni Relationships (2024–present). Content for this section is coming soon.
 </div>
 
 ### Graduate students & their research
