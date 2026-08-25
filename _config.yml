@@ -23,4 +23,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-email: Iris.hadar@biu.ac.il
+# Deliberately no `email:` key here — minima's theme renders it as a plain,
+# scrapeable mailto: link in a hidden h-card block on every page. The real
+# contact method is the click-to-reveal button on the Bio page instead.
