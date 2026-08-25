@@ -9,6 +9,7 @@ show_excerpts: false
 
 header_pages:
   - bio.md
+  - teaching.md
   - papers.md
   - policy.md
   - research-areas.md
