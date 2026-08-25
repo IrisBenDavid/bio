@@ -203,12 +203,6 @@ Full, up-to-date list also on [Google Scholar](https://scholar.google.com/citati
 - Shilo, Y., & BenDavid-Hadar, I. (2024). We shall walk around all day until we find a place: The political crisis reality in Israel and its effect on the educational frameworks for the ages of birth to three. In *Opportunities and Challenges in Early Childhood Education in Times of Crisis*. Levinsky-Wingate Academic Center. (Hebrew) <span class="tag">Book Chapter</span>
 > Shilo, Y., & BenDavid-Hadar, I. (2024). We shall walk around all day until we find a place: The political crisis reality in Israel and its effect on the educational frameworks for the ages of birth to three [in Hebrew]. In A. Peleg, K. Tal, N. Laor, & M. Caduri-Schlazak (Eds.), *Opportunities and challenges in early childhood education in times of crisis*. Levinsky-Wingate Academic Center.
 
-### In progress
-
-- Dadon-Golan, Z., BenDavid-Hadar, I., & Shapira, O. Efficiency wage theory and retention in the education system. *Humanities and Social Sciences Communications*. <span class="tag tag-progress">Revise & Resubmit</span>
-- Shilo, Y., & BenDavid-Hadar, I. Early childhood education policy and children rights: Examining the Israeli reform. *International Journal of Early Years Education*. <span class="tag tag-progress">Revise & Resubmit</span>
-- BenDavid-Hadar, I. Equity in school finance: Policy evolution and allocation mechanisms in culturally diverse democracies. *Journal of Educational Administration and History*. <span class="tag tag-progress">Submitted</span>
-
 ### Policy reports
 
 - BenDavid-Hadar, I. (2023). [Resource allocation mechanism to education and funding formula in Israel](https://meyda.education.gov.il/files/LishcatMadaan/MadadTipuach/review-bendavid-hadar.pdf). Policy white paper prepared for the Chief Scientist of the Israeli Ministry of Education. (Hebrew) <span class="tag tag-policy">Policy Brief</span>
