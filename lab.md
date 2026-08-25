@@ -69,7 +69,30 @@ One active initiative within the lab is our **[Cost-Effectiveness Analysis in Ed
 
 #### MA alumni
 
-Yifat Nachum (2025) · Lidor Edri (2025) · Liraz Gedri (2023) · Amos Polishku (2023) · Yael Hoter Hermony (2023) · Reut Tsadkani (2022) · Ruth Meoded (2020) · Orit Krubiner (2020) · Roslyn Stentner (2020) · Fatina Sarsur (2019) · Yaniv Hadad (2019) · Michal Madar-Ungar (2018) · Or May-Yazdi (2018) · Idit Chalfon (2018) · Amin ElGamal (2017) · Sigal Duani (2017) · Roy Wolf (2017) · Uri Even (2016) · Idit Levy (2015) · Noam Sharaby (2014) · Nehama Zilberberg (2013) · Yuval Oz (2012)
+- Yifat Nachum (2025)
+- Lidor Edri (2025)
+- Liraz Gedri (2023) — [thesis record →](https://education.biu.ac.il/en/node/12502)
+- Amos Polishku (2023) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/does-nonformal-education-matter-an-international-comparative-stud/)
+- Yael Hoter Hermony (2023) — [thesis (PDF) →](https://education.biu.ac.il/sites/education/files/shared/HoterHermoniYael.pdf)
+- Reut Tsadkani (2022) — [thesis (PDF) →](https://education.biu.ac.il/sites/education/files/shared/TsidkanyReut%20.pdf)
+- Ruth Meoded (2020)
+- Orit Krubiner (2020)
+- Roslyn Stentner (2020)
+- Fatina Sarsur (2019)
+- Yaniv Hadad (2019) — [thesis record →](https://www.nli.org.il/en/dissertations/NNL_ALEPH997009349895705171/NLI)
+- Michal Madar-Ungar (2018) — [thesis (PDF) →](https://education.biu.ac.il/sites/education/files/shared/UngerMadarMichal.pdf)
+- Or May-Yazdi (2018) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/the-relationships-amongst-economic-well-being-and-finanial-cultur/)
+- Idit Chalfon (2018) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/the-effects-of-parantal-involvement-and-management-style-on-mathe/)
+- Amin ElGamal (2017)
+- Sigal Duani (2017) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/equity-in-educational-inputs-and-outcomes-the-case-of-additionat-/)
+- Roy Wolf (2017)
+- Uri Even (2016) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/the-effects-of-management-style-and-school-climate-on-mathematicl/)
+- Idit Levy (2015)
+- Noam Sharaby (2014) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/differences-in-mathematic-achievements-on-matriculation-exams-bas/)
+- Nehama Zilberberg (2013) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/a-growth-model-for-evaluation-achievements-in-math-by-measuring-t/)
+- Yuval Oz (2012) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/how-the-democratic-school-nitzan-tries-to-mimimize-social-dispari/)
+
+*(11 of 22 MA theses have a public record; the rest aren't indexed online — most likely too recent or predate digital deposit requirements.)*
 
 #### Post-doc alumni
 
