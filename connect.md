@@ -4,8 +4,6 @@ title: Join
 permalink: /connect.html
 ---
 
-## Join
-
 ### Undergraduates
 
 We occasionally have positions for research assistants. If interested, get in touch via the email button on my [Bio page](bio.html).
