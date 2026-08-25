@@ -4,9 +4,15 @@ title: EDS Lab
 permalink: /lab.html
 ---
 
-## EDS — Equity, Diversity, and Social Justice Lab
+<div class="lab-page" markdown="1">
 
-Faculty of Education, Bar-Ilan University · Founded 2010
+<div class="lab-hero" markdown="1">
+
+# EDS — Equity, Diversity, and Social Justice Lab
+
+<p class="lab-subtitle">Faculty of Education, Bar-Ilan University · Founded 2010</p>
+
+</div>
 
 The EDS Lab is one of three research groups I lead — alongside [STAC](stac.html) (state competitiveness) and [LEAD](lead.html) (education finance policy) — sitting at the cohesiveness end of that spectrum. EDS studies national-level policy questions using mixed methods: how education systems can advance equity, diversity, and social justice across special needs, minority, ultra-Orthodox, immigrant, and periphery populations.
 
@@ -26,6 +32,7 @@ One active initiative within the lab is our **[Cost-Effectiveness Analysis in Ed
 - **Yael Leby** — Ultra-Orthodox integration in higher education
 - **Uri Even** — Educational leadership
 - **Reut Tsadkani** — Improvement and incentives
+{: .card-grid}
 
 ### All current & former advisees
 
@@ -33,20 +40,22 @@ One active initiative within the lab is our **[Cost-Effectiveness Analysis in Ed
 
 #### Current PhD students
 
-- Sami Atar *(with Prof. Joseph Klein)* — The relationships between supplemental resource allocation and educational achievement distribution: the case of local authorities in Israel
-- Fatina Sarssur — Developing an integrative model for academic resilience: Arabic language literacy in international assessments (PIRLS)
-- Michal Tsaduki — Equity in education policy: the Israeli case
+- **Sami Atar** *(with Prof. Joseph Klein)* — Supplemental resource allocation and educational achievement distribution: local authorities in Israel
+- **Fatina Sarssur** — Academic resilience and Arabic language literacy (PIRLS)
+- **Michal Tsaduki** — Equity in education policy: the Israeli case
+{: .card-grid}
 
 #### Current MA students
 
-- Eden Gannam — Between flexibility and regulation: examining the GEFEN reform through the lens of quasi-market theory
-- Adi Zarubi — Teachers' salary, class size & investment in education and PISA achievements: an international comparative view
-- Michal Rinuss — Integrating artificial intelligence into the work of early childhood leader-educators: productivity, self-efficacy, stress, and burnout
-- Zvia Nadav — Teacher pay, workload, and teacher retention in Israel
-- Yonathan Cohen *(with Prof. Gross)* — Student satisfaction, institutional factors, and alumni loyalty
-- Yafit Gorman — The education finance of local authorities: a policy analysis
-- Rotem Shemesh — Learning mathematics: an international comparative analysis
-- Hani Mihawi — Equity in the allocation of additional resources, crisis management, and student resilience
+- **Eden Gannam** — The GEFEN reform through the lens of quasi-market theory
+- **Adi Zarubi** — Teachers' salary, class size & investment in education and PISA achievements
+- **Michal Rinuss** — AI in early-childhood leadership: productivity, self-efficacy, stress, burnout
+- **Zvia Nadav** — Teacher pay, workload, and retention in Israel
+- **Yonathan Cohen** *(with Prof. Gross)* — Student satisfaction, institutional factors, and alumni loyalty
+- **Yafit Gorman** — The education finance of local authorities: a policy analysis
+- **Rotem Shemesh** — Learning mathematics: an international comparative analysis
+- **Hani Mihawi** — Equity in resource allocation, crisis management, and student resilience
+{: .card-grid}
 
 #### Current post-doc
 
@@ -102,3 +111,5 @@ Dr. Zehorit Dadon-Golan (2017–2019) · Dr. Mowafaq Qadach (2018–2020)
 
 - **Yaara Shilo** — early childhood education policy; [personal site](https://www.yaarashilo.co.il/) · media appearances: [1](https://youtu.be/X_mY6XjjB9A) · [2](https://www.youtube.com/watch?v=S3pAminLNzI) · [3](https://www.youtube.com/watch?v=LhwLuJTLERM)
 - **Amor Amosi** — *It's All About the Music: Excellence in Israel's Periphery, a Cost-Effectiveness Analysis of the National "Mezuyanegev" Program in Eilat* — [thesis](https://d16aa377-43ba-4606-8083-8542b471a68e.filesusr.com/ugd/3cedee_4a3f71108e224efd899195804ffe4477.docx)
+
+</div>

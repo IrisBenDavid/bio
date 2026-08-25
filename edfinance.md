@@ -4,7 +4,15 @@ title: Ed Finance Policy
 permalink: /edfinance.html
 ---
 
-## Education Finance Policy
+<div class="lab-page" markdown="1">
+
+<div class="lab-hero" markdown="1">
+
+# Education Finance Policy
+
+<p class="lab-subtitle">Faculty of Education, Bar-Ilan University</p>
+
+</div>
 
 This is my core research area: how resources are allocated to schools — and what that means for both improvement and equity in educational outcomes. My applied research group working on this, **[LEAD](lead.html)**, sits at the bridge between [STAC](stac.html) (state competitiveness) and [EDS](lab.html) (equity, diversity and social justice).
 
@@ -14,6 +22,7 @@ This is my core research area: how resources are allocated to schools — and wh
 - **EGini & Lorenz curves** — Gini-based indices I developed to measure equity in educational *outcomes*, not just inputs
 - **IEAD (Improvement in Educational Achievement Distribution)** — reconceptualizing the relationship between level of performance and achievement gaps, so that policy doesn't have to trade off improvement against equity
 - **EEO (Equality of Educational Opportunity)** — equity in inputs (central vs. local funding), horizontal equity, vertical equity, fiscal neutrality, and adequacy
+{: .card-grid}
 
 The central question I keep returning to: **can we finance education for improvement** — designing allocation mechanisms that raise outcomes *and* narrow gaps, rather than treating the two as a trade-off?
 
@@ -39,3 +48,5 @@ The central question I keep returning to: **can we finance education for improve
 - BenDavid-Hadar, I. (2014). [Analyzing school finance policy: Beyond a quantitative approach](https://doi.org/10.1080/01900692.2013.831101). *International Journal of Public Administration, 37*(5), 271–280.
 - BenDavid-Hadar, I. (2013). Is it really fair? A critical analysis of Israel's school finance policy. *International Journal of Educational Administration, 5*(1), 63–79.
 - BenDavid-Hadar, I., & Ziderman, A. (2011). [A new model for equitable and efficient resource allocation to schools: The Israeli case](https://doi.org/10.1080/09645291003726467). *Education Economics, 19*(4), 341–362.
+
+</div>
