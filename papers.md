@@ -10,6 +10,7 @@ permalink: /papers.html
 
 - BenDavid-Hadar, I. (Ed.). (2018). *[Education Finance, Equality, and Equity](https://link.springer.com/book/10.1007/978-3-319-90388-0)*. Springer. <span class="tag">Book (Editor)</span>
 > BenDavid-Hadar, I. (Ed.). (2018). *Education finance, equality, and equity*. Springer. https://doi.org/10.1007/978-3-319-90388-0
+Cite: [BibTeX](https://api.crossref.org/works/10.1007/978-3-319-90388-0/transform/application/x-bibtex) &middot; [MLA](https://citation.doi.org/format?doi=10.1007/978-3-319-90388-0&style=modern-language-association&lang=en-US) &middot; [Chicago](https://citation.doi.org/format?doi=10.1007/978-3-319-90388-0&style=chicago-author-date&lang=en-US) &middot; [Vancouver](https://citation.doi.org/format?doi=10.1007/978-3-319-90388-0&style=vancouver&lang=en-US)
 
 - Liu, J., & BenDavid-Hadar, I. (Eds.). (2018). *Belt & Road Higher Education Research: Student Mobility in the Belt and Road Countries-2017*. China Social Science Press. ISBN 978-7-5203-2515-8. <span class="tag">Book (Editor)</span>
 > Liu, J., & BenDavid-Hadar, I. (Eds.). (2018). *Belt & road higher education research: Student mobility in the Belt and Road countries-2017*. China Social Science Press.
