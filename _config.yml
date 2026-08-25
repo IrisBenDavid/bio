@@ -1,0 +1,17 @@
+title: "Iris Ben-David"        # placeholder — replace with your preferred display name
+description: "Academic homepage — placeholder, under construction."
+theme: minima
+
+minima:
+  skin: classic
+
+show_excerpts: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Site-wide settings we'll wire up once real content is added:
+# email:
+# twitter_username:
+# github_username:
