@@ -101,10 +101,23 @@ One active initiative within the lab is our **[Cost-Effectiveness Analysis in Ed
 
 **Prof. Iris BenDavid-Hadar** — Founder and Head. [Bio →](bio.html)
 
+#### Meet the group
+
+*In their own words.*
+
+<ul class="people-grid">
+<li><img src="assets/people/karen-sauer.jpg" alt="Dr. Karen Sauer"><strong>Dr. Karen Sauer</strong><span class="person-role">Post-doctoral researcher, LEAD</span><p>I am a Post Doctoral researcher at Bar-Ilan University. My research focuses on education governance and fiscal policy, examining how institutional reforms shape student outcomes. I am particularly interested in how the transition from decentralized to centralized education systems affects equity across regions, and in understanding the role of public spending, especially teacher compensation, in improving learning outcomes. My work uses panel-data econometric methods to analyze Chile's SLEP education reform.</p></li>
+<li><img src="assets/people/michal-tzadoky-dzhurinsky.jpg" alt="Michal Tzadoky-Dzhurinsky"><strong>Michal Tzadoky-Dzhurinsky</strong><span class="person-role">PhD student, EDS</span><p>I am Michal Tzadoky-Dzhurinsky, a PhD student in Education at Bar-Ilan University. My research focuses on educational inequality and the values that shape education policy. I examine how declared and implicit values influence policies designed to reduce educational gaps in Israel, from their formulation to implementation and evaluation. Using policy analysis, interviews, and semantic network analysis, I aim to contribute to more equitable and evidence-informed education policy.</p></li>
+<li><img src="assets/people/yifat-betser-nahum.jpg" alt="Yifat Betser-Nahum"><strong>Yifat Betser-Nahum</strong><span class="person-role">LEAD group member</span><p>I am the National Lead for Clinical Practice in Teacher Education at Israel's Ministry of Education. My research focuses on economic efficiency in education systems. In my published study, I examined the efficiency of Israeli local authorities in providing educational services. I am also interested in professional development and innovation in education, particularly in understanding how policy, organizational processes, and resource allocation can improve educational systems and outcomes.</p></li>
+<li><img src="assets/people/fatina-bader-sarsoor.jpg" alt="Fatina Bader Sarsoor"><strong>Fatina Bader Sarsoor</strong><span class="person-role">PhD student, EDS</span><p>I am a PhD student in Education at Bar-Ilan University. My research focuses on academic resilience, educational inequality, and reading literacy, with a particular interest in international large-scale assessments such as PIRLS. I explore how individual and school-level factors shape academic resilience across countries and over time. My research aims to deepen our understanding of the conditions that foster educational resilience and equity.</p></li>
+<li><img src="assets/people/roi-arjeh-wolf.jpg" alt="Dr. Roi Arjeh Wolf"><strong>Dr. Roi Arjeh Wolf</strong><span class="person-role">PhD alumnus, 2024</span><p>I am a lecturer in education at Orot Israel College. My research focuses on the political dynamics shaping the allocation of educational resources. I am particularly interested in how political actors influence education budgets and funding priorities. My work examines changes to education funding after the state budget has been approved, using in-depth interviews with key political actors and analysis of parliamentary Finance Committee records.</p></li>
+<li><img src="assets/people/orit-krubiner.jpg" alt="Dr. Orit Krubiner"><strong>Dr. Orit Krubiner</strong><span class="person-role">PhD alumna, 2025</span><p>I hold a PhD in Education from Bar-Ilan University. My research focuses on education policy, specialized public schools, and parental choice in Israel. I am particularly interested in how market-oriented policies and parental choice shape public education systems. My doctoral research examined four decades of policy development in Israeli specialized schools, exploring the relationships between government policy, local authorities, parental involvement, and educational equity.</p></li>
+</ul>
+
 #### Current projects
 
 - **Yaara Shilo** — Early childhood education policy
-- **Fatina Sarssur** — Minority ICT4D (empowering underprivileged minority students in science education)
+- **Fatina Bader Sarsoor** — Minority ICT4D (empowering underprivileged minority students in science education)
 - **Sharon Malki-Levy** — Language policy and immigration
 - **Orit Krubiner** — Specialized schools and quasi-market policy
 - **Or May-Yazdi** — Financial education for the Ultra-Orthodox sector
@@ -120,8 +133,8 @@ One active initiative within the lab is our **[Cost-Effectiveness Analysis in Ed
 ##### Current PhD students
 
 - **Sami Atar** *(with Prof. Joseph Klein)* — Supplemental resource allocation and educational achievement distribution: local authorities in Israel
-- **Fatina Sarssur** — Academic resilience and Arabic language literacy (PIRLS)
-- **Michal Tsaduki** — Equity in education policy: the Israeli case
+- **Fatina Bader Sarsoor** — Academic resilience and Arabic language literacy (PIRLS)
+- **Michal Tzadoky-Dzhurinsky** — Equity in education policy: the Israeli case
 {: .card-grid}
 
 ##### Current MA students
@@ -138,7 +151,7 @@ One active initiative within the lab is our **[Cost-Effectiveness Analysis in Ed
 
 ##### Current post-doc
 
-- Dr. Karen Saur (2022–present)
+- Dr. Karen Sauer (2022–present)
 
 ##### PhD alumni
 
@@ -146,7 +159,7 @@ One active initiative within the lab is our **[Cost-Effectiveness Analysis in Ed
 - Dr. Mor Zehavi (2020) — *Choice and Efficiency in Education: New Perspective on the Tiebout Model*
 - Dr. Amor Amosi-Nissan (2021) — *Excellence in Israel: A Cost-Effectiveness Analysis of "Mezuyanegev" Program in Eilat* — [thesis record →](https://education.biu.ac.il/en/node/11122)
 - Dr. Asael Sharir (2024, with Prof. Joseph Klein) — *Developing an Evaluation Model for Education for Values in High Schools* — [thesis record →](https://education.biu.ac.il/en/node/11782)
-- Dr. Roy Wolf (2024, with Prof. Joseph Klein) — *Educational Earmarks in the Light of the Political Milieu in Israel* — [thesis record →](https://education.biu.ac.il/en/node/11765)
+- Dr. Roi Arjeh Wolf (2024, with Prof. Joseph Klein) — *Educational Earmarks in the Light of the Political Milieu in Israel* — [thesis record →](https://education.biu.ac.il/en/node/11765)
 - Dr. Yaara Shilo (2024) — *Vision versus Reality: Preschool Education Policy in Israel in the Last Decade (2008–2019)* — [thesis record →](https://education.biu.ac.il/en/node/12045)
 - Dr. Orit Krubiner (2025) — *Specialized Schools in Israel: A Policy Research* — [thesis record →](https://education.biu.ac.il/en/node/12508)
 - Dr. Sharon Malki-Levy (2025, with Dr. Carmit Altman) — *Equity in Bilingual Education* — [thesis record →](https://education.biu.ac.il/en/node/12638)
@@ -166,14 +179,14 @@ One active initiative within the lab is our **[Cost-Effectiveness Analysis in Ed
 - Ruth Meoded (2020) — [thesis record →](https://education.biu.ac.il/en/node/10553)
 - Orit Krubiner (2020) — [thesis record →](https://education.biu.ac.il/en/node/10351)
 - Roslyn Stentner (2020) — [thesis record →](https://education.biu.ac.il/en/node/10645)
-- Fatina Sarsur (2019) — [thesis record →](https://education.biu.ac.il/en/node/10262)
+- Fatina Bader Sarsoor (2019) — [thesis record →](https://education.biu.ac.il/en/node/10262)
 - Yaniv Hadad (2019) — [thesis record →](https://education.biu.ac.il/en/node/10346)
 - Michal Madar-Ungar (2018) — [thesis record →](https://education.biu.ac.il/en/node/10033)
 - Or May-Yazdi (2018) — [thesis record →](https://education.biu.ac.il/en/node/9338)
 - Idit Chalfon (2018) — [thesis record →](https://education.biu.ac.il/en/node/9524)
 - Amin ElGamal (2017) — [thesis record →](https://education.biu.ac.il/en/node/10542)
 - Sigal Duani (2017) — [thesis record →](https://education.biu.ac.il/en/node/8744)
-- Roy Wolf (2017)
+- Roi Arjeh Wolf (2017)
 - Uri Even (2016) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/the-effects-of-management-style-and-school-climate-on-mathematicl/)
 - Idit Levy (2015)
 - Noam Sharaby (2014) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/differences-in-mathematic-achievements-on-matriculation-exams-bas/)

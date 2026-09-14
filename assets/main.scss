@@ -139,6 +139,53 @@ article blockquote {
     color: $brand-color;
     font-size: 1.05em;
   }
+
+  // Photo + first-person bio cards, for group members who've shared both.
+  ul.people-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1.1em;
+    list-style: none;
+    padding: 0;
+    margin: 1.2em 0;
+  }
+
+  ul.people-grid li {
+    background: #fff;
+    border: 1px solid #e3e3e3;
+    border-radius: 8px;
+    padding: 1em 1.1em;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+    font-size: 0.92em;
+    line-height: 1.5;
+  }
+
+  ul.people-grid img {
+    width: 84px;
+    height: 84px;
+    object-fit: cover;
+    border-radius: 8px;
+    float: left;
+    margin: 0 0.9em 0.4em 0;
+  }
+
+  ul.people-grid strong {
+    display: block;
+    color: $brand-color;
+    font-size: 1.05em;
+  }
+
+  ul.people-grid .person-role {
+    display: block;
+    color: #777;
+    font-size: 0.88em;
+    margin-bottom: 0.5em;
+  }
+
+  ul.people-grid p {
+    margin: 0.4em 0 0 0;
+    clear: none;
+  }
 }
 
 .portrait {
