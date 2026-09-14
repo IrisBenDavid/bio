@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 // Bot-resistant email include: the real address is never rendered as text
-// or an href — it's built and navigated to only on click.
+// or an href - it's built and navigated to only on click.
 .email-reveal-btn {
   margin-left: 0.5em;
   padding: 0.2em 0.7em;
@@ -88,7 +88,7 @@ article blockquote {
 }
 
 // Al-folio-inspired styling for the research-group pages (EDS, Ed Finance
-// Policy, STAC) — sans-serif, card-grid people/projects, akin to
+// Policy, STAC) - sans-serif, card-grid people/projects, akin to
 // https://lacclab.github.io/
 .lab-page {
   font-family: Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
@@ -187,7 +187,7 @@ article blockquote {
     clear: none;
   }
 
-  // Timeline-style list for PhD/MA alumni — year badge + name + dissertation title.
+  // Timeline-style list for PhD/MA alumni - year badge + name + dissertation title.
   ul.thesis-list {
     list-style: none;
     padding: 0;
@@ -247,7 +247,7 @@ article blockquote {
 
 .portrait {
   width: 200px;
-  height: auto; // preserve the photo's natural aspect ratio — never crop it
+  height: auto; // preserve the photo's natural aspect ratio - never crop it
   border-radius: 6px;
   float: right;
   margin: 0 0 1em 1.5em;

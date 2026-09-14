@@ -4,26 +4,26 @@ title: LEAD
 permalink: /lead.html
 ---
 
-## LEAD — Learning for Strategic Development
+## LEAD - Learning for Strategic Development
 
 Faculty of Education, Bar-Ilan University
 
-LEAD is my research group on **education finance policy** — one of three groups I lead, alongside [Competitiveness — STAC](research-areas.html#competitiveness) and [Cohesiveness — EDS](research-areas.html#cohesiveness). LEAD sits at the bridge between the two: it studies redistribution and resource-allocation mechanisms, funding formulae, and equity analysis, using longitudinal, nationwide student-level data.
+LEAD is my research group on **education finance policy** - one of three groups I lead, alongside [Competitiveness - STAC](research-areas.html#competitiveness) and [Cohesiveness - EDS](research-areas.html#cohesiveness). LEAD sits at the bridge between the two: it studies redistribution and resource-allocation mechanisms, funding formulae, and equity analysis, using longitudinal, nationwide student-level data.
 
 Current work includes developing a new funding formula and resource-allocation mechanism for improvement, reconceptualizing the relationship between performance levels and achievement gaps (Improvement in Educational Achievement Distribution, or **IEAD**), and measuring equity in outcomes via Gini-based indices (**EGini**) and Lorenz curves.
 
 ### Current group members
 
-- **Sami Atar**, **Elinor Ben-Levy** — Resource allocation
-- **Yifat Betser-Nahum** — Efficiency in local funding — [thesis link →](https://education.biu.ac.il/en/node/12268)
-- **Roi Arjeh Wolf** — Politics of budgeting — [dissertation link →](https://education.biu.ac.il/en/node/11765)
-- **Ruth Meoded** — Fiscal decentralization and equity in school finance — [thesis link →](https://education.biu.ac.il/en/node/10553)
+- **Sami Atar**, **Elinor Ben-Levy** - Resource allocation
+- **Yifat Betser-Nahum** - Efficiency in local funding - [thesis link →](https://education.biu.ac.il/en/node/12268)
+- **Roi Arjeh Wolf** - Politics of budgeting - [dissertation link →](https://education.biu.ac.il/en/node/11765)
+- **Ruth Meoded** - Fiscal decentralization and equity in school finance - [thesis link →](https://education.biu.ac.il/en/node/10553)
 
 ### LEAD: ISF International Workshop
 
 **Bar-Ilan University · May 5–7, 2025**
 
-In May 2025 I led a major international workshop under the LEAD banner. It brought together leading scholars in education finance to develop the theoretical and empirical grounding of the **Middle-Line Model** — a framework for advancing both state competitiveness and social cohesion through education finance policy, rather than treating them as a trade-off.
+In May 2025 I led a major international workshop under the LEAD banner. It brought together leading scholars in education finance to develop the theoretical and empirical grounding of the **Middle-Line Model** - a framework for advancing both state competitiveness and social cohesion through education finance policy, rather than treating them as a trade-off.
 
 **Funding:** Israel Science Foundation (ISF) International Workshop Grant.
 

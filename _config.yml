@@ -1,5 +1,5 @@
 title: "Iris BenDavid-Hadar"
-description: "Associate Professor, Faculty of Education, Bar-Ilan University — education finance policy, resource allocation, and equity."
+description: "Associate Professor, Faculty of Education, Bar-Ilan University - education finance policy, resource allocation, and equity."
 theme: minima
 
 minima:
@@ -23,6 +23,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Deliberately no `email:` key here — minima's theme renders it as a plain,
+# Deliberately no `email:` key here - minima's theme renders it as a plain,
 # scrapeable mailto: link in a hidden h-card block on every page. The real
 # contact method is the click-to-reveal button on the Bio page instead.

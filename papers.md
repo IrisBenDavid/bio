@@ -6,7 +6,7 @@ permalink: /papers.html
 
 ## Publications
 
-Organized by research area — [Education Finance Policy](#education-finance-policy) ([LEAD](lead.html)), [Cohesiveness: Equity, Diversity & Social Justice](#cohesiveness-equity-diversity--social-justice) ([EDS](research-areas.html#cohesiveness)), [Competitiveness](#competitiveness) ([STAC](research-areas.html#competitiveness)), and general [Educational Policy](#educational-policy). Full list also on [Google Scholar](https://scholar.google.com/citations?user=zO4doM0AAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-7533-4422).
+Organized by research area - [Education Finance Policy](#education-finance-policy) ([LEAD](lead.html)), [Cohesiveness: Equity, Diversity & Social Justice](#cohesiveness-equity-diversity--social-justice) ([EDS](research-areas.html#cohesiveness)), [Competitiveness](#competitiveness) ([STAC](research-areas.html#competitiveness)), and general [Educational Policy](#educational-policy). Full list also on [Google Scholar](https://scholar.google.com/citations?user=zO4doM0AAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-7533-4422).
 
 ## Education Finance Policy
 
@@ -62,7 +62,7 @@ Cite: [APA](https://citation.doi.org/format?doi=10.1080/03057925.2017.1323625&st
 - BenDavid-Hadar, I., & Duani, S. (2018). [From equitable funding to equality of educational opportunity: The Israeli case](https://doi.org/10.1353/jef.2018.a707919). *Journal of Education Finance, 43*(4), 360-380. <span class="tag">Journal Article</span>
 > BenDavid-Hadar, I., & Duani, S. (2018). From equitable funding to equality of educational opportunity: The Israeli case. *Journal of Education Finance, 43*(4), 360-380.
 
-- Gilead, T., & BenDavid-Hadar, I. (2017). [Employing needs-based funding formulae — some unavoidable tradeoffs](https://doi.org/10.1108/ijem-01-2017-0008). *International Journal of Educational Management, 31*(7), 1092-1102. <span class="tag">Journal Article</span>
+- Gilead, T., & BenDavid-Hadar, I. (2017). [Employing needs-based funding formulae - some unavoidable tradeoffs](https://doi.org/10.1108/ijem-01-2017-0008). *International Journal of Educational Management, 31*(7), 1092-1102. <span class="tag">Journal Article</span>
 > Gilead, T., & BenDavid-Hadar, I. (2017). Employing needs-based funding formulae: Some unavoidable tradeoffs. *International Journal of Educational Management, 31*(7), 1092-1102. https://doi.org/10.1108/ijem-01-2017-0008
 Cite: [APA](https://citation.doi.org/format?doi=10.1108/ijem-01-2017-0008&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.1108/ijem-01-2017-0008/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.1108/ijem-01-2017-0008&style=chicago-author-date&lang=en-US)
 

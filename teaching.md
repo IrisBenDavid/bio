@@ -17,10 +17,10 @@ Faculty of Education, Bar-Ilan University
 
 ### Graduate
 
-- School Finance Policy — Introduction
-- School Finance Policy — Advanced Issues
-- Economics of Education — Micro
-- Economics of Education — Macro
+- School Finance Policy - Introduction
+- School Finance Policy - Advanced Issues
+- Economics of Education - Micro
+- Economics of Education - Macro
 - School's Assessment and Evaluation
 - School Finance Issues and Budget Analysis
 - Economics of Education: Empirical Aspects
