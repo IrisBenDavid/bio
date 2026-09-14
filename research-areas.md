@@ -155,44 +155,48 @@ One active initiative within the lab is our **[Cost-Effectiveness Analysis in Ed
 
 ##### PhD alumni
 
-- Dr. Zehorit Dadon-Golan (2016) — *Measuring Education Inequality in Israel: New Indicators* — [full dissertation (PDF) →](https://education.biu.ac.il/files/education/shared/dadon-golanzehorit_.pdf)
-- Dr. Mor Zehavi (2020) — *Choice and Efficiency in Education: New Perspective on the Tiebout Model*
-- Dr. Amor Amosi-Nissan (2021) — *Excellence in Israel: A Cost-Effectiveness Analysis of "Mezuyanegev" Program in Eilat* — [thesis record →](https://education.biu.ac.il/en/node/11122)
-- Dr. Asael Sharir (2022, with Prof. Joseph Klein) — *Developing an Evaluation Model for Education for Values in High Schools in the National State Education System in Israel* — [thesis record →](https://education.biu.ac.il/en/node/11782)
-- Dr. Roi Arjeh Wolf (2023, with Prof. Joseph Klein) — *Between Political Climate and Budgetary Decision-Making Processes: The Case of the Changes in the Education Budget in Israel* — [thesis record →](https://education.biu.ac.il/en/node/11765)
-- Dr. Yaara Shilo (2023) — *Vision versus Reality: Early Childhood Education Policy in Israel in the Last Decades* — [thesis record →](https://education.biu.ac.il/en/node/12045)
-- Dr. Orit Krubiner (2024) — *Specialized Schools in Israel: A Policy Research* — [thesis record →](https://education.biu.ac.il/en/node/12508)
-- Dr. Sharon Malki-Levy (2024, with Prof. Carmit Altman) — *Linguistic Inequity: A Policy Study from International, Local, and School Perspectives* — [thesis record →](https://education.biu.ac.il/en/node/12638)
-- Dr. Yael Leby (2024, with Dr. Shira Iluz) — *Integrating the Ultra-Orthodox into Higher Education in Israel: From Examining Policy to Examining the Relationships Between the Need for Tuition Financing, Motives for Higher-Education Enrollment, and Individual Choice of Discipline* — [thesis record →](https://education.biu.ac.il/en/node/12443)
-- Dr. Miri Wolf (2024, with Prof. Bracha Kramarski) — *Cultivating Teaching Beliefs and Practices for Knowledge-Constructing Metacognitive Mathematical Discourse in the Classroom Among Pre-/In-Service Teachers in a Theory-Based Training Environment That Includes Interactive Technology* — [thesis record →](https://education.biu.ac.il/en/node/12269)
-- Dr. Ruth Meoded (2025) — *Equity in School Finance: The Local Authorities Case in Israel*
+<ul class="thesis-list">
+<li><span class="thesis-year">2025</span><p class="thesis-name">Dr. Ruth Meoded</p><p class="thesis-title">Equity in School Finance: The Local Authorities Case in Israel</p></li>
+<li><span class="thesis-year">2024</span><p class="thesis-name">Dr. Miri Wolf <small>(with Prof. Bracha Kramarski)</small></p><p class="thesis-title">Cultivating Teaching Beliefs and Practices for Knowledge-Constructing Metacognitive Mathematical Discourse in the Classroom Among Pre-/In-Service Teachers in a Theory-Based Training Environment That Includes Interactive Technology</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/12269">Thesis record →</a></p></li>
+<li><span class="thesis-year">2024</span><p class="thesis-name">Dr. Yael Leby <small>(with Dr. Shira Iluz)</small></p><p class="thesis-title">Integrating the Ultra-Orthodox into Higher Education in Israel: From Examining Policy to Examining the Relationships Between the Need for Tuition Financing, Motives for Higher-Education Enrollment, and Individual Choice of Discipline</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/12443">Thesis record →</a></p></li>
+<li><span class="thesis-year">2024</span><p class="thesis-name">Dr. Sharon Malki-Levy <small>(with Prof. Carmit Altman)</small></p><p class="thesis-title">Linguistic Inequity: A Policy Study from International, Local, and School Perspectives</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/12638">Thesis record →</a></p></li>
+<li><span class="thesis-year">2024</span><p class="thesis-name">Dr. Orit Krubiner</p><p class="thesis-title">Specialized Public Schools in Israel: A Longitudinal Policy Research over the Past Four Decades — The Case of Parental Choice</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/12508">Thesis record →</a></p></li>
+<li><span class="thesis-year">2023</span><p class="thesis-name">Dr. Roi Arjeh Wolf <small>(with Prof. Joseph Klein)</small></p><p class="thesis-title">Between Political Climate and Budgetary Decision-Making Processes: The Case of the Changes in the Education Budget in Israel</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/11765">Thesis record →</a></p></li>
+<li><span class="thesis-year">2023</span><p class="thesis-name">Dr. Yaara Shilo</p><p class="thesis-title">Vision versus Reality: Early Childhood Education Policy in Israel in the Last Decades</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/12045">Thesis record →</a></p></li>
+<li><span class="thesis-year">2022</span><p class="thesis-name">Dr. Asael Sharir <small>(with Prof. Joseph Klein)</small></p><p class="thesis-title">Developing an Evaluation Model for Education for Values in High Schools in the National State Education System in Israel</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/11782">Thesis record →</a></p></li>
+<li><span class="thesis-year">2021</span><p class="thesis-name">Dr. Amor Amosi-Nissan</p><p class="thesis-title">Policy for Promoting Excellence in the Periphery in Israel: Costs and Effectiveness Analysis of the National "Mezuyanegev" Program in Eilat</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/11122">Thesis record →</a></p></li>
+<li><span class="thesis-year">2020</span><p class="thesis-name">Dr. Mor Zehavi</p><p class="thesis-title">Choice and Efficiency in Education: New Perspective on the Tiebout Model</p></li>
+<li><span class="thesis-year">2016</span><p class="thesis-name">Dr. Zehorit Dadon-Golan</p><p class="thesis-title">Measuring Education Inequality in Israel: New Indicators</p><p class="thesis-link"><a href="https://education.biu.ac.il/files/education/shared/dadon-golanzehorit_.pdf">Full dissertation (PDF) →</a></p></li>
+</ul>
 
 *(A public dissertation record isn't yet available online for every 2024–2025 graduate — Bar-Ilan's repository typically has an embargo period before full text is deposited. Get in touch for a copy.)*
 
 ##### MA alumni
 
-- Yifat Betser-Nahum (2024) — [thesis record →](https://education.biu.ac.il/en/node/12268)
-- Lidor Edri (2025) — [thesis record →](https://education.biu.ac.il/en/node/12721)
-- Liraz Gedri (2024) — [thesis record →](https://education.biu.ac.il/en/node/12502)
-- Amos Polishku (2022) — [thesis record →](https://education.biu.ac.il/en/node/11692)
-- Yael Hoter Hermony (2022) — [thesis record →](https://education.biu.ac.il/en/node/11528)
-- Reut Tsadkani (2022) — [thesis record →](https://education.biu.ac.il/en/node/11386)
-- Ruth Meoded (2020) — [thesis record →](https://education.biu.ac.il/en/node/10553)
-- Orit Krubiner (2020) — [thesis record →](https://education.biu.ac.il/en/node/10351)
-- Roslyn Stentner (2020) — [thesis record →](https://education.biu.ac.il/en/node/10645)
-- Fatina Bader Sarsoor (2019) — [thesis record →](https://education.biu.ac.il/en/node/10262)
-- Yaniv Hadad (2018) — [thesis record →](https://education.biu.ac.il/en/node/10346)
-- Michal Madar-Ungar (2018) — [thesis record →](https://education.biu.ac.il/en/node/10033)
-- Or May-Yazdi (2017) — [thesis record →](https://education.biu.ac.il/en/node/9338)
-- Idit Chalfon (2017) — [thesis record →](https://education.biu.ac.il/en/node/9524)
-- Amin ElGamal (2020) — [thesis record →](https://education.biu.ac.il/en/node/10542)
-- Sigal Duani (2016) — [thesis record →](https://education.biu.ac.il/en/node/8744)
-- Roi Arjeh Wolf (2017)
-- Uri Even (2016) — [thesis record →](https://education.biu.ac.il/en/node/8464)
-- Idit Levy (2014)
-- Noam Sharaby (2014) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/differences-in-mathematic-achievements-on-matriculation-exams-bas/)
-- Nehama Zilberberg (2013) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/a-growth-model-for-evaluation-achievements-in-math-by-measuring-t/)
-- Yuval Oz (2012, with Prof. Deborah Court) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/how-the-democratic-school-nitzan-tries-to-mimimize-social-dispari/)
+<ul class="thesis-list">
+<li><span class="thesis-year">2025</span><p class="thesis-name">Lidor Edri</p><p class="thesis-title">Inclusion of Children with Special Needs in Elementary Schools in Israel: Perspectives on Parental Involvement, Budgeting, and Educational Policy</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/12721">Thesis record →</a></p></li>
+<li><span class="thesis-year">2024</span><p class="thesis-name">Yifat Betser-Nahum</p><p class="thesis-title">Efficiency in Local Educational Funding: A Data Envelopment Analysis of Municipal Allocation</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/12268">Thesis record →</a></p></li>
+<li><span class="thesis-year">2024</span><p class="thesis-name">Liraz Gedri</p><p class="thesis-title">Relationships Among (Altruistic) Leadership, Teacher Satisfaction, and School Effectiveness</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/12502">Thesis record →</a></p></li>
+<li><span class="thesis-year">2022</span><p class="thesis-name">Amos Polishku</p><p class="thesis-title">Does Nonformal Education Matter? An International Comparative Study on the Relationships Between Nonformal Education and Competencies Among Natives and Immigrants</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/11692">Thesis record →</a></p></li>
+<li><span class="thesis-year">2022</span><p class="thesis-name">Yael Hoter-Hermony</p><p class="thesis-title">The Relationships Among Teacher Quality, Teacher Satisfaction, Investment in Education, and PISA Performance: An International Comparative View</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/11528">Thesis record →</a></p></li>
+<li><span class="thesis-year">2022</span><p class="thesis-name">Reut Tsadkani</p><p class="thesis-title">School Effectiveness in Israel: Systemic and Intra-School Perspectives</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/11386">Thesis record →</a></p></li>
+<li><span class="thesis-year">2020</span><p class="thesis-name">Ruth Meoded</p><p class="thesis-title">Education Finance Policy of Culturally Diverse Societies: Equity Analyses of School Finance Policy in Israeli Ultra-Orthodox Primary Education</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/10553">Thesis record →</a></p></li>
+<li><span class="thesis-year">2020</span><p class="thesis-name">Amin ElGamal</p><p class="thesis-title">Relationships Among Parental Choice, Satisfaction, Involvement, and Expectations, and School Efficiency: The Case of Primary Schools for Arabic-Speaking Students in Israel</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/10542">Thesis record →</a></p></li>
+<li><span class="thesis-year">2020</span><p class="thesis-name">Roslyn Stentner</p><p class="thesis-title">Principals' and Teachers' Perceptions of the Principal's Role in Teachers' Professional Development Toward 21st-Century Competencies</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/10645">Thesis record →</a></p></li>
+<li><span class="thesis-year">2019</span><p class="thesis-name">Fatina Bader Sarsoor</p><p class="thesis-title">Effectiveness and Cost-Effectiveness of Integrating ICT in Fifth-Grade Science Classes in Arabic-Speaking Schools in Israel</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/10262">Thesis record →</a></p></li>
+<li><span class="thesis-year">2019</span><p class="thesis-name">Orit Krubiner</p><p class="thesis-title">Specialized Schools in Israel: A Longitudinal Policy Research over the Past Three Decades</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/10351">Thesis record →</a></p></li>
+<li><span class="thesis-year">2018</span><p class="thesis-name">Yaniv Hadad</p><p class="thesis-title">Relationships Between Financial Education and the Consumption Culture of Young Children</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/10346">Thesis record →</a></p></li>
+<li><span class="thesis-year">2018</span><p class="thesis-name">Michal Madar-Ungar</p><p class="thesis-title">The Relationship Among Type of Education, Creative Thinking, and Social Competence of Children: A Cost-Effectiveness Analysis of Homeschooling in Israel</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/10033">Thesis record →</a></p></li>
+<li><span class="thesis-year">2017</span><p class="thesis-name">Or May-Yazdi</p><p class="thesis-title">The Relationship Among Economic Well-Being, Academic Education, and Financial Literacy: The Case of the Israeli Ultra-Orthodox Sector</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/9338">Thesis record →</a></p></li>
+<li><span class="thesis-year">2017</span><p class="thesis-name">Idit Chalfon</p><p class="thesis-title">The Relationships Between Parental Involvement, School Principals' Management Style, and Mathematics Achievement Among Students in Primary Schools Specializing in Behavioral Disorders</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/9524">Thesis record →</a></p></li>
+<li><span class="thesis-year">2017</span><p class="thesis-name">Roi Arjeh Wolf</p></li>
+<li><span class="thesis-year">2016</span><p class="thesis-name">Sigal Duani</p><p class="thesis-title">From Equitable Funding to Equality of Educational Opportunity: The Case of Israeli Primary Schools</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/8744">Thesis record →</a></p></li>
+<li><span class="thesis-year">2016</span><p class="thesis-name">Uri Even</p><p class="thesis-title">The Effects of Management Style and School Climate on Mathematics Achievement in Special-Education Schools Specializing in Conduct Disorders</p><p class="thesis-link"><a href="https://education.biu.ac.il/en/node/8464">Thesis record →</a></p></li>
+<li><span class="thesis-year">2014</span><p class="thesis-name">Idit Levy</p><p class="thesis-title">The Integration Policy of Special-Needs Children in Regular Schools: A Comparative Policy Research</p></li>
+<li><span class="thesis-year">2014</span><p class="thesis-name">Noam Sharaby</p><p class="thesis-title">Differences in Mathematics Achievement on Matriculation Examinations Based on Background Variables of Younger Students Identified as Gifted in Mathematics</p><p class="thesis-link"><a href="https://cris.biu.ac.il/en/studentTheses/differences-in-mathematic-achievements-on-matriculation-exams-bas/">Thesis record →</a></p></li>
+<li><span class="thesis-year">2013</span><p class="thesis-name">Nehama Zilberberg</p><p class="thesis-title">A Growth Model for Evaluating Achievement in Mathematics by Measuring School Added Value Through Readiness, Participation, Self-Efficacy, Additional Reinforcement Hours, and Student Background Variables</p><p class="thesis-link"><a href="https://cris.biu.ac.il/en/studentTheses/a-growth-model-for-evaluation-achievements-in-math-by-measuring-t/">Thesis record →</a></p></li>
+<li><span class="thesis-year">2012</span><p class="thesis-name">Yuval Oz <small>(with Prof. Deborah Court)</small></p><p class="thesis-title">How the Democratic School "Nitzan" Tries to Minimize Social Disparities Among Disadvantaged Students: A Case Study</p><p class="thesis-link"><a href="https://cris.biu.ac.il/en/studentTheses/how-the-democratic-school-nitzan-tries-to-mimimize-social-dispari/">Thesis record →</a></p></li>
+</ul>
 
 *(20 of 22 MA theses have a public record; the rest aren't indexed online — most likely too recent or predate digital deposit requirements.)*
 

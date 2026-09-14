@@ -14,6 +14,9 @@ Organized by research area — [Education Finance Policy](#education-finance-pol
 > BenDavid-Hadar, I. (Ed.). (2018). *Education finance, equality, and equity*. Springer. https://doi.org/10.1007/978-3-319-90388-0
 Cite: [APA](https://citation.doi.org/format?doi=10.1007/978-3-319-90388-0&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.1007/978-3-319-90388-0/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.1007/978-3-319-90388-0&style=chicago-author-date&lang=en-US)
 
+- Dadon-Golan, Z., BenDavid-Hadar, I., & Tsidkany, R. (2026). [Symbolic incentives in elementary schools](https://www.frontiersin.org/articles/10.3389/feduc.2026.1892999). *Frontiers in Education, 11*, 1892999. <span class="tag">Journal Article</span>
+> Dadon-Golan, Z., BenDavid-Hadar, I., & Tsidkany, R. (2026). Symbolic incentives in elementary schools. *Frontiers in Education, 11*, Article 1892999.
+
 - Meoded, R., & BenDavid-Hadar, I. (2025). [Fiscal decentralization of education: A social network analysis of values underlying local decision-making processes](https://doi.org/10.1016/j.ijedudev.2025.103444). *International Journal of Educational Development, 119*, 103444. <span class="tag">Journal Article</span>
 > Meoded, R., & BenDavid-Hadar, I. (2025). Fiscal decentralization of education: A social network analysis of values underlying local decision-making processes. *International Journal of Educational Development, 119*, Article 103444. https://doi.org/10.1016/j.ijedudev.2025.103444
 Cite: [APA](https://citation.doi.org/format?doi=10.1016/j.ijedudev.2025.103444&style=apa&lang=en-US) &middot; [BibTeX](https://api.crossref.org/works/10.1016/j.ijedudev.2025.103444/transform/application/x-bibtex) &middot; [Chicago](https://citation.doi.org/format?doi=10.1016/j.ijedudev.2025.103444&style=chicago-author-date&lang=en-US)

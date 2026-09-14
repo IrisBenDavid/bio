@@ -186,6 +186,63 @@ article blockquote {
     margin: 0.4em 0 0 0;
     clear: none;
   }
+
+  // Timeline-style list for PhD/MA alumni — year badge + name + dissertation title.
+  ul.thesis-list {
+    list-style: none;
+    padding: 0;
+    margin: 1.1em 0;
+    border-left: 2px solid #e3e3e3;
+  }
+
+  ul.thesis-list li {
+    position: relative;
+    padding: 0 0 1.1em 1.3em;
+  }
+
+  ul.thesis-list li::before {
+    content: "";
+    position: absolute;
+    left: -5px;
+    top: 0.35em;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: $brand-color;
+  }
+
+  ul.thesis-list .thesis-year {
+    display: inline-block;
+    font-size: 0.8em;
+    font-weight: 600;
+    color: $brand-color;
+    letter-spacing: 0.02em;
+    margin-bottom: 0.15em;
+  }
+
+  ul.thesis-list .thesis-name {
+    font-weight: 600;
+    margin: 0 0 0.2em 0;
+    font-size: 1em;
+
+    small {
+      font-weight: 400;
+      color: #777;
+      font-size: 0.85em;
+    }
+  }
+
+  ul.thesis-list .thesis-title {
+    color: #555;
+    font-style: italic;
+    font-size: 0.92em;
+    line-height: 1.4;
+    margin: 0 0 0.25em 0;
+  }
+
+  ul.thesis-list .thesis-link {
+    font-size: 0.86em;
+  }
 }
 
 .portrait {
