@@ -158,12 +158,13 @@ One active initiative within the lab is our **[Cost-Effectiveness Analysis in Ed
 - Dr. Zehorit Dadon-Golan (2016) — *Measuring Education Inequality in Israel: New Indicators* — [full dissertation (PDF) →](https://education.biu.ac.il/files/education/shared/dadon-golanzehorit_.pdf)
 - Dr. Mor Zehavi (2020) — *Choice and Efficiency in Education: New Perspective on the Tiebout Model*
 - Dr. Amor Amosi-Nissan (2021) — *Excellence in Israel: A Cost-Effectiveness Analysis of "Mezuyanegev" Program in Eilat* — [thesis record →](https://education.biu.ac.il/en/node/11122)
-- Dr. Asael Sharir (2024, with Prof. Joseph Klein) — *Developing an Evaluation Model for Education for Values in High Schools* — [thesis record →](https://education.biu.ac.il/en/node/11782)
-- Dr. Roi Arjeh Wolf (2024, with Prof. Joseph Klein) — *Educational Earmarks in the Light of the Political Milieu in Israel* — [thesis record →](https://education.biu.ac.il/en/node/11765)
-- Dr. Yaara Shilo (2024) — *Vision versus Reality: Preschool Education Policy in Israel in the Last Decade (2008–2019)* — [thesis record →](https://education.biu.ac.il/en/node/12045)
-- Dr. Orit Krubiner (2025) — *Specialized Schools in Israel: A Policy Research* — [thesis record →](https://education.biu.ac.il/en/node/12508)
-- Dr. Sharon Malki-Levy (2025, with Dr. Carmit Altman) — *Equity in Bilingual Education* — [thesis record →](https://education.biu.ac.il/en/node/12638)
-- Dr. Yael Leby (2025, with Dr. Shira Eluz) — *Ultra-Orthodox Integration in Higher Education: A Policy Research* — [thesis record →](https://education.biu.ac.il/en/node/12443)
+- Dr. Asael Sharir (2022, with Prof. Joseph Klein) — *Developing an Evaluation Model for Education for Values in High Schools in the National State Education System in Israel* — [thesis record →](https://education.biu.ac.il/en/node/11782)
+- Dr. Roi Arjeh Wolf (2023, with Prof. Joseph Klein) — *Between Political Climate and Budgetary Decision-Making Processes: The Case of the Changes in the Education Budget in Israel* — [thesis record →](https://education.biu.ac.il/en/node/11765)
+- Dr. Yaara Shilo (2023) — *Vision versus Reality: Early Childhood Education Policy in Israel in the Last Decades* — [thesis record →](https://education.biu.ac.il/en/node/12045)
+- Dr. Orit Krubiner (2024) — *Specialized Schools in Israel: A Policy Research* — [thesis record →](https://education.biu.ac.il/en/node/12508)
+- Dr. Sharon Malki-Levy (2024, with Prof. Carmit Altman) — *Linguistic Inequity: A Policy Study from International, Local, and School Perspectives* — [thesis record →](https://education.biu.ac.il/en/node/12638)
+- Dr. Yael Leby (2024, with Dr. Shira Iluz) — *Integrating the Ultra-Orthodox into Higher Education in Israel: From Examining Policy to Examining the Relationships Between the Need for Tuition Financing, Motives for Higher-Education Enrollment, and Individual Choice of Discipline* — [thesis record →](https://education.biu.ac.il/en/node/12443)
+- Dr. Miri Wolf (2024, with Prof. Bracha Kramarski) — *Cultivating Teaching Beliefs and Practices for Knowledge-Constructing Metacognitive Mathematical Discourse in the Classroom Among Pre-/In-Service Teachers in a Theory-Based Training Environment That Includes Interactive Technology* — [thesis record →](https://education.biu.ac.il/en/node/12269)
 - Dr. Ruth Meoded (2025) — *Equity in School Finance: The Local Authorities Case in Israel*
 
 *(A public dissertation record isn't yet available online for every 2024–2025 graduate — Bar-Ilan's repository typically has an embargo period before full text is deposited. Get in touch for a copy.)*
@@ -172,28 +173,28 @@ One active initiative within the lab is our **[Cost-Effectiveness Analysis in Ed
 
 - Yifat Betser-Nahum (2024) — [thesis record →](https://education.biu.ac.il/en/node/12268)
 - Lidor Edri (2025) — [thesis record →](https://education.biu.ac.il/en/node/12721)
-- Liraz Gedri (2023) — [thesis record →](https://education.biu.ac.il/en/node/12502)
-- Amos Polishku (2023) — [thesis record →](https://education.biu.ac.il/en/node/11692)
-- Yael Hoter Hermony (2023) — [thesis record →](https://education.biu.ac.il/en/node/11528)
+- Liraz Gedri (2024) — [thesis record →](https://education.biu.ac.il/en/node/12502)
+- Amos Polishku (2022) — [thesis record →](https://education.biu.ac.il/en/node/11692)
+- Yael Hoter Hermony (2022) — [thesis record →](https://education.biu.ac.il/en/node/11528)
 - Reut Tsadkani (2022) — [thesis record →](https://education.biu.ac.il/en/node/11386)
 - Ruth Meoded (2020) — [thesis record →](https://education.biu.ac.il/en/node/10553)
 - Orit Krubiner (2020) — [thesis record →](https://education.biu.ac.il/en/node/10351)
 - Roslyn Stentner (2020) — [thesis record →](https://education.biu.ac.il/en/node/10645)
 - Fatina Bader Sarsoor (2019) — [thesis record →](https://education.biu.ac.il/en/node/10262)
-- Yaniv Hadad (2019) — [thesis record →](https://education.biu.ac.il/en/node/10346)
+- Yaniv Hadad (2018) — [thesis record →](https://education.biu.ac.il/en/node/10346)
 - Michal Madar-Ungar (2018) — [thesis record →](https://education.biu.ac.il/en/node/10033)
-- Or May-Yazdi (2018) — [thesis record →](https://education.biu.ac.il/en/node/9338)
-- Idit Chalfon (2018) — [thesis record →](https://education.biu.ac.il/en/node/9524)
-- Amin ElGamal (2017) — [thesis record →](https://education.biu.ac.il/en/node/10542)
-- Sigal Duani (2017) — [thesis record →](https://education.biu.ac.il/en/node/8744)
+- Or May-Yazdi (2017) — [thesis record →](https://education.biu.ac.il/en/node/9338)
+- Idit Chalfon (2017) — [thesis record →](https://education.biu.ac.il/en/node/9524)
+- Amin ElGamal (2020) — [thesis record →](https://education.biu.ac.il/en/node/10542)
+- Sigal Duani (2016) — [thesis record →](https://education.biu.ac.il/en/node/8744)
 - Roi Arjeh Wolf (2017)
-- Uri Even (2016) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/the-effects-of-management-style-and-school-climate-on-mathematicl/)
-- Idit Levy (2015)
+- Uri Even (2016) — [thesis record →](https://education.biu.ac.il/en/node/8464)
+- Idit Levy (2014)
 - Noam Sharaby (2014) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/differences-in-mathematic-achievements-on-matriculation-exams-bas/)
 - Nehama Zilberberg (2013) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/a-growth-model-for-evaluation-achievements-in-math-by-measuring-t/)
-- Yuval Oz (2012) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/how-the-democratic-school-nitzan-tries-to-mimimize-social-dispari/)
+- Yuval Oz (2012, with Prof. Deborah Court) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/how-the-democratic-school-nitzan-tries-to-mimimize-social-dispari/)
 
-*(18 of 22 MA theses have a public record; the rest aren't indexed online — most likely too recent or predate digital deposit requirements.)*
+*(20 of 22 MA theses have a public record; the rest aren't indexed online — most likely too recent or predate digital deposit requirements.)*
 
 ##### Post-doc alumni
 
