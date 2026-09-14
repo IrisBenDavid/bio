@@ -170,7 +170,7 @@ One active initiative within the lab is our **[Cost-Effectiveness Analysis in Ed
 
 ##### MA alumni
 
-- Yifat Nachum (2025)
+- Yifat Betser-Nahum (2024) — [thesis record →](https://education.biu.ac.il/en/node/12268)
 - Lidor Edri (2025) — [thesis record →](https://education.biu.ac.il/en/node/12721)
 - Liraz Gedri (2023) — [thesis record →](https://education.biu.ac.il/en/node/12502)
 - Amos Polishku (2023) — [thesis record →](https://education.biu.ac.il/en/node/11692)
@@ -193,7 +193,7 @@ One active initiative within the lab is our **[Cost-Effectiveness Analysis in Ed
 - Nehama Zilberberg (2013) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/a-growth-model-for-evaluation-achievements-in-math-by-measuring-t/)
 - Yuval Oz (2012) — [thesis record →](https://cris.biu.ac.il/en/studentTheses/how-the-democratic-school-nitzan-tries-to-mimimize-social-dispari/)
 
-*(17 of 22 MA theses have a public record; the rest aren't indexed online — most likely too recent or predate digital deposit requirements.)*
+*(18 of 22 MA theses have a public record; the rest aren't indexed online — most likely too recent or predate digital deposit requirements.)*
 
 ##### Post-doc alumni
 
