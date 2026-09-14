@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Areas
+title: Research
 permalink: /research-areas.html
 ---
 
@@ -8,7 +8,7 @@ permalink: /research-areas.html
 
 <div class="lab-hero" markdown="1">
 
-# Research Areas
+# Research
 
 <p class="lab-subtitle">Three research groups, bridging state competitiveness and social cohesiveness through education finance policy</p>
 
