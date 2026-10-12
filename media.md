@@ -10,6 +10,10 @@ Where my research has reached the public - podcast, press, and broadcast. See al
 
 ### Podcast
 
+- **[HaKoteret](https://omny.fm/shows/koteret)** (הכותרת), Ynet's daily news podcast with Sharon Kidon - episode: [There's money but no teachers: why doesn't the education budget reach the classroom?](https://omny.fm/shows/koteret/96867051-8c46-4db5-a412-b4b100e75481) (יש כסף, אין מורים: למה תקציב החינוך לא מגיע לכיתות?, Aug 2026). Israel spends about 6% of GDP on education, well above the OECD average of 4.9%. But to judge whether the budget is big enough, you have to separate its overall size from what actually reaches each student. Israel's population is very young, with roughly a third of it at compulsory-schooling age, so the budget is divided among many more students and the picture changes. We also talk about teacher pay lagging the OECD, rigid collective agreements, and how cuts that look "equal" on paper widen the gap between the center and the periphery.
+
+<iframe src="https://omny.fm/shows/koteret/96867051-8c46-4db5-a412-b4b100e75481/embed" width="100%" height="180" frameborder="0" allow="autoplay; clipboard-write" title="HaKoteret - Ynet podcast episode"></iframe>
+
 - **[Bar Daat](https://www.youtube.com/@bardaat_barilanuniversity)** (בר-דעת), Bar-Ilan University's official podcast - episode: [How much should a teacher earn in Israel?](https://www.youtube.com/watch?v=ySvUtQG7yrU) A discussion of teacher salary policy in Israel and whether higher pay actually attracts and retains stronger teachers.
 
 ### Press

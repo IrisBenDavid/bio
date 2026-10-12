@@ -10,6 +10,8 @@ permalink: /bio.html
 
 **Associate Professor, Faculty of Education, Bar-Ilan University**
 
+[Download my CV (PDF, updated October 2026)](assets/Iris_BenDavid-Hadar_CV.pdf)
+
 ### Why my research matters
 
 Where money goes in a school system shapes who gets a fair shot. My work asks how education budgets and funding formulae can be designed to both **improve outcomes** and **narrow achievement gaps** - not treat those as a trade-off. That question has taken me from a PhD dissertation on Israel's achievement gap to advising Israel's Ministry of Education on its national funding formula, testifying before the Knesset Education Committee, and reviewing UNESCO's equity-in-financing profiles for Israel.
